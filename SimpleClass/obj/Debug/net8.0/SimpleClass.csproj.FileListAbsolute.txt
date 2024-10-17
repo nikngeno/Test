@@ -1,0 +1,15 @@
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.sourcelink.json
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\bin\Debug\net8.0\SimpleClass.exe
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\bin\Debug\net8.0\SimpleClass.deps.json
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\bin\Debug\net8.0\SimpleClass.runtimeconfig.json
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\bin\Debug\net8.0\SimpleClass.dll
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\bin\Debug\net8.0\SimpleClass.pdb
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.dll
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\refint\SimpleClass.dll
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.pdb
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\SimpleClass.genruntimeconfig.cache
+C:\Users\nicho\vscode\vscodeprojects\SimpleClass\obj\Debug\net8.0\ref\SimpleClass.dll

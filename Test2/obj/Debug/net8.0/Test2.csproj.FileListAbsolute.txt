@@ -12,3 +12,4 @@ C:\Users\nicho\vscode\vscodeprojects\Test2\obj\Debug\net8.0\refint\Test2.dll
 C:\Users\nicho\vscode\vscodeprojects\Test2\obj\Debug\net8.0\Test2.pdb
 C:\Users\nicho\vscode\vscodeprojects\Test2\obj\Debug\net8.0\Test2.genruntimeconfig.cache
 C:\Users\nicho\vscode\vscodeprojects\Test2\obj\Debug\net8.0\ref\Test2.dll
+C:\Users\nicho\vscode\vscodeprojects\Test2\obj\Debug\net8.0\Test2.sourcelink.json

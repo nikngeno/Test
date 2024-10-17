@@ -1,0 +1,15 @@
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\bin\Debug\net8.0\MakeAClass.exe
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\bin\Debug\net8.0\MakeAClass.deps.json
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\bin\Debug\net8.0\MakeAClass.runtimeconfig.json
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\bin\Debug\net8.0\MakeAClass.dll
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\bin\Debug\net8.0\MakeAClass.pdb
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.sourcelink.json
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.dll
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\refint\MakeAClass.dll
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.pdb
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\MakeAClass.genruntimeconfig.cache
+C:\Users\nicho\vscode\vscodeprojects\MakeAClass\obj\Debug\net8.0\ref\MakeAClass.dll

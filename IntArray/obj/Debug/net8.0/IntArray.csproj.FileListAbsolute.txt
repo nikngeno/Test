@@ -1,0 +1,5 @@
+C:\Users\nicho\vscode\vscodeprojects\IntArray\obj\Debug\net8.0\IntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\IntArray\obj\Debug\net8.0\IntArray.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\IntArray\obj\Debug\net8.0\IntArray.sourcelink.json
