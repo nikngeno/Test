@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntArray", "IntArray\IntArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClass", "SimpleClass\SimpleClass.csproj", "{BA68C5C8-355D-4626-95C5-235B9076BEF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkSharp", "ThinkSharp\ThinkSharp.csproj", "{F6E57486-08D0-4D30-820F-AA77AB1E3273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5DB0F00E-D761-471B-B5B6-5A9C91340324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{BA68C5C8-355D-4626-95C5-235B9076BEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA68C5C8-355D-4626-95C5-235B9076BEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA68C5C8-355D-4626-95C5-235B9076BEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E57486-08D0-4D30-820F-AA77AB1E3273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E57486-08D0-4D30-820F-AA77AB1E3273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E57486-08D0-4D30-820F-AA77AB1E3273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E57486-08D0-4D30-820F-AA77AB1E3273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB0F00E-D761-471B-B5B6-5A9C91340324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB0F00E-D761-471B-B5B6-5A9C91340324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB0F00E-D761-471B-B5B6-5A9C91340324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB0F00E-D761-471B-B5B6-5A9C91340324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
