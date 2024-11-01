@@ -3,24 +3,36 @@
 
 //namespace SimpleClasses;
 
+using SimpleClass;
+
 public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Car myCar = new Car();
-        myCar.Color = "Red";
-        myCar.Year = 2020;
-        myCar.Brand = "Toyota";
-        myCar.Model = "Camry";
+        Car myCar = new()
+        {
+            Color = "Red",
+            Year = 2020,
+            Brand = "Toyota",
+            Model = "Camry"
+        };
 
         Console.WriteLine("{0} {1} {2} {3}" ,myCar.Color,myCar.Year,myCar.Brand,myCar.Model);
+
+        Person FirstPerson = new Person();
+        FirstPerson.name = "John";
+        FirstPerson.age = 25;
+        Console.WriteLine("{0} {1}", FirstPerson.name, FirstPerson.age);
+
+        Person SecondPerson = new Person(15,"Nick");
+        Console.WriteLine("{0} {1}", SecondPerson.name, SecondPerson.age);
     }
 }
  class Car
  {
-    public string Brand { get; set; }
-    public string Model { get; set; }
+    public required string Brand { get; set; }
+    public required string Model { get; set; }
     public int Year { get; set; }
-    public string Color { get; set; }
+    public required string Color { get; set; }
  }
 
