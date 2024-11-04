@@ -4,20 +4,17 @@
 //namespace SimpleClasses;
 
 using SimpleClass;
+using static SimpleClass.Truck;
 
 public class Program
 {
     public static void Main(string[] args)
     {
-        Car myCar = new()
-        {
-            Color = "Red",
-            Year = 2020,
-            Brand = "Toyota",
-            Model = "Camry"
-        };
+       var car = new Sedan("Honda Accord","Red", 2019, 5);
+       var truck = new Truck("kenworth W990","Black", 2020, 50);
+      car.DisplayInfo();
+      truck.DisplayInfo();
 
-        Console.WriteLine("{0} {1} {2} {3}" ,myCar.Color,myCar.Year,myCar.Brand,myCar.Model);
 
         Person FirstPerson = new Person();
         FirstPerson.name = "John";
@@ -28,11 +25,11 @@ public class Program
         Console.WriteLine("{0} {1}", SecondPerson.name, SecondPerson.age);
     }
 }
- class Car
- {
+ //class Car
+/* {
     public required string Brand { get; set; }
     public required string Model { get; set; }
     public int Year { get; set; }
     public required string Color { get; set; }
- }
+ }*/
 
