@@ -1,0 +1,15 @@
+C:\Users\nicho\vscode\vscodeprojects\Rational\bin\Debug\net8.0\Rational.exe
+C:\Users\nicho\vscode\vscodeprojects\Rational\bin\Debug\net8.0\Rational.deps.json
+C:\Users\nicho\vscode\vscodeprojects\Rational\bin\Debug\net8.0\Rational.runtimeconfig.json
+C:\Users\nicho\vscode\vscodeprojects\Rational\bin\Debug\net8.0\Rational.dll
+C:\Users\nicho\vscode\vscodeprojects\Rational\bin\Debug\net8.0\Rational.pdb
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.sourcelink.json
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.dll
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\refint\Rational.dll
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.pdb
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\Rational.genruntimeconfig.cache
+C:\Users\nicho\vscode\vscodeprojects\Rational\obj\Debug\net8.0\ref\Rational.dll
