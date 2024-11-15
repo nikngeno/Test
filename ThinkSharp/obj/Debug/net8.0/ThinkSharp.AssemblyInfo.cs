@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThinkSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3fe713de5b803b2b6791655a99647679bd0c8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24ca361b00d31e6f4dbe40e8b9a33dc5e0aca579")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThinkSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThinkSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

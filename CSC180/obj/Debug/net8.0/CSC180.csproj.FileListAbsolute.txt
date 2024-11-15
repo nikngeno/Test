@@ -1,0 +1,15 @@
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.sourcelink.json
+C:\Users\nicho\vscode\vscodeprojects\CSC180\bin\Debug\net8.0\CSC180.exe
+C:\Users\nicho\vscode\vscodeprojects\CSC180\bin\Debug\net8.0\CSC180.deps.json
+C:\Users\nicho\vscode\vscodeprojects\CSC180\bin\Debug\net8.0\CSC180.runtimeconfig.json
+C:\Users\nicho\vscode\vscodeprojects\CSC180\bin\Debug\net8.0\CSC180.dll
+C:\Users\nicho\vscode\vscodeprojects\CSC180\bin\Debug\net8.0\CSC180.pdb
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.dll
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\refint\CSC180.dll
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.pdb
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\CSC180.genruntimeconfig.cache
+C:\Users\nicho\vscode\vscodeprojects\CSC180\obj\Debug\net8.0\ref\CSC180.dll
