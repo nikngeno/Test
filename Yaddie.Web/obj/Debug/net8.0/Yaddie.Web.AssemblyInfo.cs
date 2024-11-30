@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yaddie.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de8ea75d7efa5ca4375b2338acc28d801dd292d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+957804b46a10d7dadae933698393fd5d62db23d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yaddie.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yaddie.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

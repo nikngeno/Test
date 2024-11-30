@@ -1,0 +1,15 @@
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\bin\Debug\net8.0\GenerateSQLData.exe
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\bin\Debug\net8.0\GenerateSQLData.deps.json
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\bin\Debug\net8.0\GenerateSQLData.runtimeconfig.json
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\bin\Debug\net8.0\GenerateSQLData.dll
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\bin\Debug\net8.0\GenerateSQLData.pdb
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.AssemblyInfoInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.AssemblyInfo.cs
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.csproj.CoreCompileInputs.cache
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.sourcelink.json
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.dll
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\refint\GenerateSQLData.dll
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.pdb
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\GenerateSQLData.genruntimeconfig.cache
+C:\Users\nicho\vscode\vscodeprojects\GenerateSQLData\obj\Debug\net8.0\ref\GenerateSQLData.dll
