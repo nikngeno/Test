@@ -1,0 +1,33 @@
+TeamID,TeamName,Abbreviation,Nickname,City,StateOrProvince,FoundedYear,HomeArena,Conference,Website
+1,New Jersey Devils,NJD,Devils,New Jersey,New Jersey,1974,Prudential Center,Eastern,http://www.newjerseydevils.com/
+2,New York Islanders,NYI,Islanders,New York,New York,1972,UBS Arena,Eastern,http://www.newyorkislanders.com/
+3,New York Rangers,NYR,Rangers,New York,New York,1926,Madison Square Garden,Eastern,http://www.newyorkrangers.com/
+4,Philadelphia Flyers,PHI,Flyers,Philadelphia,Pennsylvania,1967,Wells Fargo Center,Eastern,http://www.philadelphiaflyers.com/
+5,Pittsburgh Penguins,PIT,Penguins,Pittsburgh,Pennsylvania,1967,PPG Paints Arena,Eastern,http://pittsburghpenguins.com/
+6,Boston Bruins,BOS,Bruins,Boston,Massachusetts,1924,TD Garden,Eastern,http://www.bostonbruins.com/
+7,Buffalo Sabres,BUF,Sabres,Buffalo,New York,1970,KeyBank Center,Eastern,http://www.sabres.com/
+8,Montreal Canadiens,MTL,Canadiens,Montreal,"Quebec, Canada",1917,Bell Centre,Eastern,http://www.canadiens.com/
+9,Ottawa Senators,OTT,Senators,Ottawa,"Ontario, Canada",1991,Canadian Tire Centre,Eastern,http://www.ottawasenators.com/
+10,Toronto Maple Leafs,TOR,Maple Leafs,Toronto,"Ontario, Canada",1917,Scotiabank Arena,Eastern,http://www.mapleleafs.com/
+11,Carolina Hurricanes,CAR,Hurricanes,Carolina,North Carolina,1979,PNC Arena,Eastern,http://www.carolinahurricanes.com/
+12,Florida Panthers,FLA,Panthers,Florida,Florida,1993,Amerant Bank Arena,Eastern,http://www.floridapanthers.com/
+13,Tampa Bay Lightning,TBL,Lightning,Tampa Bay,Florida,1991,AMALIE Arena,Eastern,http://www.tampabaylightning.com/
+14,Washington Capitals,WSH,Capitals,Washington,D.C.,1974,Capital One Arena,Eastern,http://www.washingtoncapitals.com/
+15,Chicago Blackhawks,CHI,Blackhawks,Chicago,Illinois,1926,United Center,Western,http://www.chicagoblackhawks.com/
+16,Detroit Red Wings,DET,Red Wings,Detroit,Michigan,1926,Little Caesars Arena,Eastern,http://www.detroitredwings.com/
+17,Nashville Predators,NSH,Predators,Nashville,Tennessee,1997,Bridgestone Arena,Western,http://www.nashvillepredators.com/
+18,St. Louis Blues,STL,Blues,St. Louis,Missouri,1967,Enterprise Center,Western,http://www.stlouisblues.com/
+19,Calgary Flames,CGY,Flames,Calgary,"Alberta, Canada",1972,Scotiabank Saddledome,Western,http://www.calgaryflames.com/
+20,Colorado Avalanche,COL,Avalanche,Colorado,Colorado,1979,Ball Arena,Western,http://www.coloradoavalanche.com/
+21,Edmonton Oilers,EDM,Oilers,Edmonton,"Alberta, Canada",1979,Rogers Place,Western,http://www.edmontonoilers.com/
+22,Vancouver Canucks,VAN,Canucks,Vancouver,"British Columbia, Canada",1970,Rogers Arena,Western,http://www.canucks.com/
+23,Anaheim Ducks,ANA,Ducks,Anaheim,California,1993,Honda Center,Western,http://www.anaheimducks.com/
+24,Dallas Stars,DAL,Stars,Dallas,Texas,1967,American Airlines Center,Western,http://www.dallasstars.com/
+25,Los Angeles Kings,LAK,Kings,Los Angeles,California,1967,Crypto.com Arena,Western,http://www.lakings.com/
+26,San Jose Sharks,SJS,Sharks,San Jose,California,1990,SAP Center at San Jose,Western,http://www.sjsharks.com/
+27,Columbus Blue Jackets,CBJ,Blue Jackets,Columbus,Ohio,1997,Nationwide Arena,Eastern,http://www.bluejackets.com/
+28,Minnesota Wild,MIN,Wild,Minnesota,Minnesota,1997,Xcel Energy Center,Western,http://www.wild.com/
+29,Winnipeg Jets,WPG,Jets,Winnipeg,"Manitoba, Canada",1997,Canada Life Centre,Western,http://winnipegjets.com/
+30,Arizona Coyotes,ARI,Coyotes,Arizona,Arizona,2014,Mullett Arena,Western,http://www.arizonacoyotes.com/
+31,Vegas Golden Knights,VGK,Golden Knights,Vegas,Nevada,2017,T-Mobile Arena,Western,http://www.vegasgoldenknights.com/
+32,Seattle Kraken,SEA,Kraken,Seattle,Washington,2021,Climate Pledge Arena,Western,https://www.nhl.com/seattle
