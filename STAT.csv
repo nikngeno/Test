@@ -1,0 +1,896 @@
+ID,Start time,Completion time,Email,Name,Last modified time,Date,Staff Name,Location,User,Reason for Visit,Issue presented,Comments
+1,9/19/23 13:39:09,9/19/23 13:41:01,anonymous,,,9/19/2023,Nicholas Ngeno,,Student,Tech Help;,Student Email;,Student was not able to log in as it showed his email address was incorrect- Worked with Breanna to get the correct email address and reset it
+2,9/25/23 9:13:07,9/25/23 9:14:07,anonymous,,,9/25/2023,Jonas Nelson,,Student,Tech Help;,WIFI;,Student has a legacy ID
+3,9/25/23 9:34:00,9/25/23 9:38:05,anonymous,,,9/25/2023,Jonas Nelson,,Staff,Tech Help;,WIFI;,Unable to use the WIFI
+4,9/25/23 9:38:08,9/25/23 9:38:55,anonymous,,,9/25/2023,Jonas Nelson,,Staff,Tech Help;,WIFI;,Unable to login to WIFI
+5,9/25/23 10:13:30,9/25/23 10:15:36,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Printing;,Other;,No help needed.
+6,9/25/23 10:31:43,9/25/23 10:32:17,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Printing;,Other;,a
+7,9/25/23 10:32:18,9/25/23 10:34:54,anonymous,,,9/25/2023,Jonas Nelson,,Staff,Printing;Computer Usage;,Other;,No issue
+8,9/25/23 10:34:56,9/25/23 10:35:29,anonymous,,,9/25/2023,Jonas Nelson,,Guest,Tech Help;,WIFI;,"Registered recently, unable to connect to WIFI"
+9,9/25/23 10:47:22,9/25/23 10:48:13,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Printing;Tech Help;,WIFI;,.
+10,9/25/23 11:04:12,9/25/23 11:05:26,anonymous,,,9/25/2023,Jonas Nelson,,Student,Tech Help;,Other;,"Ukrainian ELL student, needed to know her classes.  "
+11,9/25/23 11:05:30,9/25/23 11:23:04,anonymous,,,9/25/2023,Jonas Nelson,,Student,Tech Help;,WIFI;,none
+12,9/25/23 11:32:17,9/25/23 11:32:58,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;,Other;,.
+13,9/25/23 11:33:00,9/25/23 11:58:17,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Printing;Tech Help;,WIFI;Other;,Printing Syllabi
+14,9/25/23 11:58:20,9/25/23 12:06:31,anonymous,,,9/25/2023,Jonas Nelson,,Student,Tech Help;,Other;,Downloading Adobe products.
+15,9/25/23 12:11:54,9/25/23 12:12:32,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;,Other;,computer use
+16,9/25/23 12:21:31,9/25/23 12:26:41,anonymous,,,9/25/2023,Jonas Nelson,,Student,Printing;,Other;,.
+17,9/25/23 12:26:43,9/25/23 12:30:29,anonymous,,,9/25/2023,Jonas Nelson,,Student,Other;,WIFI;,Registered recently and cannot connect to WIFI.
+18,9/25/23 12:37:31,9/25/23 12:38:03,anonymous,,,9/25/2023,Jonas Nelson,,Guest,Other;,Other;,Sat in chair by printer.
+19,9/25/23 13:02:55,9/25/23 13:03:35,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Tech Help;,WIFI;,Recently registered and cannot connect to WIFI.
+20,9/25/23 13:11:07,9/25/23 13:13:16,anonymous,,,9/25/2023,Jonas Nelson,,Staff,Computer Usage;,Other;,.
+21,9/25/23 13:23:45,9/25/23 13:24:22,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;Tech Help;,WIFI;,.
+22,9/25/23 13:25:33,9/25/23 13:29:46,anonymous,,,9/25/2023,Jonas Nelson,,Student,Computer Usage;,Other;,No issues.
+23,9/26/23 9:15:54,9/26/23 9:17:47,anonymous,,,9/26/2023,Jacob,,Student,Tech Help;,Canvas;,Student was trying to log into canvas but the wrong one.
+24,9/26/23 9:17:59,9/26/23 9:20:10,anonymous,,,9/26/2023,jacob,,Student,Tech Help;,WIFI;,"student needed help getting on the wifi, he as able to connect but got no internet once connected, worked on pierce open, was not a new student"
+25,9/26/23 9:37:34,9/26/23 9:38:25,anonymous,,,9/26/2023,jacob,,Student,Tech Help;,Student Email;,student couldnt get into their student email
+26,9/26/23 9:33:33,9/26/23 9:56:28,anonymous,,,9/26/2023,Kayla Sumerall,,Staff,Other;Printing;,Other;,Questions about printing
+27,9/26/23 9:58:48,9/26/23 10:01:07,anonymous,,,9/26/2023,Priscilla,,Student,Computer Usage;Printing;,Other;,N/A
+28,9/26/23 9:58:20,9/26/23 10:01:21,anonymous,,,11/9/2023,Florian Williams,,Student,Tech Help;,Student Email;,Student outlook help
+29,9/26/23 10:01:18,9/26/23 10:01:51,anonymous,,,9/26/2023,Priscilla,,Student,Computer Usage;Printing;,Other;,N/A
+30,9/26/23 10:01:28,9/26/23 10:02:45,anonymous,,,9/26/2023,Florian Williams,,Student,Tech Help;,Student Email;,Email help
+31,9/26/23 10:03:21,9/26/23 10:04:24,anonymous,,,9/26/2023,Florian Williams,,Student,Tech Help;,Student Email;,Student email
+32,9/26/23 10:01:54,9/26/23 10:10:10,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;,WIFI;,N/A
+33,9/26/23 10:10:18,9/26/23 10:11:35,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;,Student Email;,N/A
+34,9/26/23 10:11:37,9/26/23 10:12:34,anonymous,,,9/26/2023,Priscilla,,Student,Computer Usage;,Other;,N/A
+35,9/26/23 10:12:41,9/26/23 10:13:49,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,N/A
+36,9/26/23 10:13:51,9/26/23 10:14:17,anonymous,,,9/26/2023,Priscilla,,Guest,Computer Usage;,Other;,N/A
+37,9/26/23 10:14:32,9/26/23 10:15:26,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;,Other;,N/A
+38,9/26/23 10:15:29,9/26/23 10:16:19,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;,Student Email;,N/A
+39,9/26/23 10:16:31,9/26/23 10:17:17,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,N/A
+40,9/26/23 10:17:40,9/26/23 10:18:21,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+41,9/26/23 10:18:30,9/26/23 10:19:15,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+42,9/26/23 10:19:33,9/26/23 10:20:08,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+43,9/26/23 10:20:12,9/26/23 10:20:45,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+44,9/26/23 10:20:46,9/26/23 10:21:06,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+45,9/26/23 10:21:07,9/26/23 10:21:59,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,WIFI;,NA
+46,9/26/23 10:22:00,9/26/23 10:22:37,anonymous,,,9/26/2023,Priscilla,,Guest,Tech Help;,WIFI;,NA
+47,9/26/23 10:22:39,9/26/23 10:27:11,anonymous,,,9/26/2023,Priscilla,,Student,Computer Usage;,Other;,NA
+48,9/26/23 10:27:13,9/26/23 10:27:47,anonymous,,,9/26/2023,Priscilla,,Student,Computer Usage;,Other;,NA
+49,9/26/23 10:27:57,9/26/23 10:28:16,anonymous,,,9/26/2023,Priscilla,,Guest,Tech Help;,WIFI;,NA
+50,9/26/23 9:31:39,9/26/23 10:31:46,anonymous,,,9/26/2023,Teresia,,Student,Other;,Other;,The student was seeking to contact his advisor to be able to change his classes. He was guided on how to get on starfish and contact them.
+51,9/26/23 10:34:21,9/26/23 10:35:06,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+52,9/26/23 10:35:11,9/26/23 10:46:50,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;Study Table;,WIFI;,N/A
+53,9/26/23 10:50:02,9/26/23 10:51:08,anonymous,,,9/26/2023,Florian Williams,,Student,Tech Help;,WIFI;,Received help
+54,9/26/23 10:46:52,9/26/23 11:04:32,anonymous,,,9/26/2023,Priscilla,,Student,Tech Help;,WIFI;,NA
+55,9/26/23 11:04:36,9/26/23 11:18:33,anonymous,,,9/26/2023,Priscilla,,Staff,Computer Usage;,Other;,NA
+56,9/26/23 11:18:34,9/26/23 11:18:55,anonymous,,,9/26/2023,Priscilla,,Guest,Other;,Other;,NA
+57,9/26/23 10:31:55,9/26/23 11:21:54,anonymous,,,9/26/2023,Teresia,,Student,Computer Usage;,Other;,The student is using the computers to do his schoolwork
+58,9/26/23 11:18:59,9/26/23 11:44:09,anonymous,,,9/26/2023,Yessica B.,,Student,Tech Help;,Student Email;Canvas;,"Student name: Jake Kwak, needed help to change name on Canvas. Directed to eLearning. Also helped setup his student email. Had to reset his password, reset was successful."
+59,9/26/23 11:43:42,9/26/23 11:44:56,anonymous,,,9/26/2023,Teresia,,Student,Computer Usage;,Other;,The student is using the lab computer for schoolwork
+60,9/26/23 12:13:18,9/26/23 12:16:06,anonymous,,,9/26/2023,Florian Williams,,Student,Computer Usage;,Other;,Just came in to use a computer.
+61,9/26/23 12:41:34,9/26/23 12:44:08,anonymous,,,9/26/2023,jacob,PY - Lab,Student,Tech Help;,Student Email;,student needed an email password reset 
+62,9/26/23 12:45:07,9/26/23 12:46:52,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,Other;,student came in for tech help
+63,9/26/23 12:46:56,9/26/23 12:47:57,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Other;,Student Email;,came in for email help
+64,9/26/23 12:47:59,9/26/23 12:48:48,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Other;,Student Email;,came in for email help
+65,9/26/23 12:48:51,9/26/23 12:49:42,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,helped get wifi
+66,9/26/23 12:49:51,9/26/23 12:50:20,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,helped get wifi
+67,9/26/23 12:50:21,9/26/23 12:50:46,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,helped get wifi
+68,9/26/23 12:50:48,9/26/23 12:52:18,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,help getting to c274
+69,9/26/23 12:52:24,9/26/23 12:52:47,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Tech Help;,Other;,helped getting to c274
+70,9/26/23 12:52:51,9/26/23 12:53:28,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped getting to c274
+71,9/26/23 12:53:31,9/26/23 12:53:48,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped getting to c274
+72,9/26/23 12:53:49,9/26/23 12:54:09,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped getting to c274
+73,9/26/23 12:54:13,9/26/23 12:54:47,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped getting to c274
+74,9/26/23 12:54:49,9/26/23 12:55:44,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped 
+75,9/26/23 12:55:49,9/26/23 12:56:07,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+76,9/26/23 12:56:13,9/26/23 12:56:30,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+77,9/26/23 12:56:35,9/26/23 12:56:49,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+78,9/26/23 12:56:53,9/26/23 12:57:10,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+79,9/26/23 12:57:12,9/26/23 12:57:34,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+80,9/26/23 12:57:39,9/26/23 12:57:57,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+81,9/26/23 12:58:01,9/26/23 12:58:15,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+82,9/26/23 12:58:17,9/26/23 12:58:36,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+83,9/26/23 12:58:42,9/26/23 12:59:17,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,Canvas;Other;,helped with ctc link too
+84,9/26/23 12:59:20,9/26/23 13:01:16,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Other;,Student Email;,"needed student email help but couldn't get them logged in, new student"
+85,9/26/23 13:03:03,9/26/23 13:03:39,anonymous,,,9/26/2023,Jacob Casca,PY - Lab,Student,Other;,Other;,Looking for 274
+86,9/26/23 13:03:42,9/26/23 13:04:38,anonymous,,,9/26/2023,yessica b,PY - Lab,Student,Other;,Other;,Check-in
+87,9/26/23 12:00:16,9/26/23 13:05:08,anonymous,,,9/26/2023,Teresia,,Student,Other;,Student Email;,Her email password was reset. It's now working.
+88,9/26/23 13:14:22,9/26/23 13:14:57,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Printing;,Other;,helped with printing
+89,9/26/23 13:05:18,9/26/23 13:15:11,anonymous,,,9/26/2023,Teresia,FS- Lab,Student,Other;,Other;,The student needed help accessing Starfish. Issue solved
+90,9/26/23 13:14:58,9/26/23 13:15:41,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Other;,Canvas;Other;,helped with accessing canvas and finding course materials
+91,9/26/23 13:15:42,9/26/23 13:19:12,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,helped with wifi
+92,9/26/23 13:04:41,9/26/23 13:21:12,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,Office 365;Canvas;WIFI;Other;,"Needed assistance with Panopto, connecting to wifi, and checking office 365."
+93,9/26/23 13:26:15,9/26/23 13:26:33,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Guest,Other;,Other;,helped
+94,9/26/23 13:21:18,9/26/23 13:27:27,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Tech Help;,WIFI;,First time connecting laptop and phone to WiFi.
+95,9/26/23 13:27:29,9/26/23 13:28:02,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Directions.
+96,9/26/23 13:29:46,9/26/23 13:30:29,anonymous,,,9/26/2023,Yessica B,PY - Lab,Student,Tech Help;,Office 365;Canvas;Other;,helped with panopto
+97,9/26/23 13:31:17,9/26/23 13:32:30,anonymous,,,9/26/2023,Florian Williams,FS- Lab,Staff,Tech Help;,Other;,Adobe login issues
+98,9/26/23 13:32:36,9/26/23 13:34:31,anonymous,,,9/26/2023,Florian Williams,FS- Lab,Student,Tech Help;,Other;,"Adobe sign in issues, unresolved, 6 other students helped."
+99,9/26/23 13:15:14,9/26/23 13:36:42,anonymous,,,9/26/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,using the computer 
+100,9/26/23 13:28:11,9/26/23 13:46:22,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;Canvas;,"Needed assistance finding the Canvas portal and connecting to the WiFi. Thought that she needed a password reset, but actually was using the wrong login formula."
+101,9/26/23 13:46:26,9/26/23 13:48:03,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Directions to computer lab classroom.
+102,9/26/23 13:32:17,9/26/23 13:51:43,anonymous,,,9/26/2023,Taylor Swensen,PY - Library,Student,Computer Usage;,WIFI;,Student was unable to login to the PierceOpen network and needed assistance. I was unable to get their SID number.
+103,9/26/23 13:48:09,9/26/23 14:01:48,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;Canvas;,Needed assistance signing into WiFi and downloading/signing into Canvas app.
+104,9/26/23 14:01:55,9/26/23 14:15:18,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,Student Email;Canvas;WIFI;,Needed assistance signing into WiFi and joining a program for a specific course.
+105,9/26/23 14:15:23,9/26/23 14:18:31,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,Connecting new phone to the WiFi.
+106,9/26/23 13:30:31,9/26/23 14:29:07,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Study Table;,Other;,studying
+107,9/26/23 14:30:10,9/26/23 14:30:57,anonymous,,,9/26/2023,Nick,FS- Lab,Guest,Other;,Other;,Guest wanted to check if computer in O305 was fixed
+108,9/26/23 14:31:01,9/26/23 14:32:31,anonymous,,,9/26/2023,Nick,FS- Lab,Staff,Other;,Other;,Lecturer inquired about Adobe login on room O302
+109,9/26/23 14:03:17,9/26/23 14:35:13,anonymous,,,9/26/2023,Jabez Gomez ,FS- Lab,Student,Computer Usage;Other;,Canvas;,Student Needed help accessing his canvas and know where to access his zoom link for a class. 
+110,9/26/23 14:18:34,9/26/23 14:38:42,anonymous,,,9/26/2023,Yessica B,PY - Lab,Student,Computer Usage;,Other;,computer usage
+111,9/26/23 14:38:44,9/26/23 14:40:40,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,"New student, registered in July 2023, trying to connect to school WiFi."
+112,9/26/23 14:29:08,9/26/23 14:44:01,anonymous,,,9/26/2023,CaitlinHeavner,PY - Lab,Student,Tech Help;,WIFI;,"new student needed wifi help, couldn't log on"
+113,9/26/23 14:44:04,9/26/23 14:44:29,anonymous,,,9/26/2023,Jacob,PY - Lab,Guest,Other;,Other;,helped
+114,9/26/23 14:40:43,9/26/23 14:45:00,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Study Table;,Other;,Using charging station.
+115,9/26/23 14:45:02,9/26/23 14:45:55,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Study Table;,Other;,Using charging station.
+116,9/26/23 14:45:57,9/26/23 14:47:37,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Visit
+117,9/26/23 14:47:39,9/26/23 14:52:58,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Visit.
+118,9/26/23 14:53:00,9/26/23 14:56:22,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Other;,Other;,Visit.
+119,9/26/23 14:56:24,9/26/23 14:56:49,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Visit.
+120,9/26/23 14:56:56,9/26/23 14:57:47,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Visit.
+121,9/26/23 14:57:51,9/26/23 15:10:14,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,Student Email;,New student email cannot login because student was registered after July 2023.
+122,9/26/23 15:10:17,9/26/23 15:10:41,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Tech Help;,Student Email;,New student email cannot login because student was registered after July 2023.
+123,9/26/23 15:10:42,9/26/23 15:11:30,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+124,9/26/23 15:11:32,9/26/23 15:12:04,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+125,9/26/23 15:12:09,9/26/23 15:12:26,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+126,9/26/23 15:12:31,9/26/23 15:13:31,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+127,9/26/23 15:13:35,9/26/23 15:13:57,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+128,9/26/23 15:14:01,9/26/23 15:14:21,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+129,9/26/23 15:14:26,9/26/23 15:14:49,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+130,9/26/23 15:14:54,9/26/23 15:15:15,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+131,9/26/23 15:15:20,9/26/23 15:15:46,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+132,9/26/23 15:15:50,9/26/23 15:16:09,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+133,9/26/23 15:12:53,9/26/23 15:16:34,anonymous,,,9/26/2023,Nicholas,FS- Lab,Guest,Tech Help;,WIFI;,Student came in for help because they weren't able to access PierceWIFI.
+134,9/26/23 15:16:16,9/26/23 15:16:55,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Printing;,Other;,Using printer.
+135,9/26/23 15:16:36,9/26/23 15:17:08,anonymous,,,9/26/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,Canvas;,helped navigate canvas and access courses
+136,9/26/23 15:16:56,9/26/23 15:17:18,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+137,9/26/23 15:17:22,9/26/23 15:17:45,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+138,9/26/23 15:17:46,9/26/23 15:18:09,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+139,9/26/23 15:18:11,9/26/23 15:19:23,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+140,9/26/23 15:19:27,9/26/23 15:19:47,anonymous,,,9/26/2023,Emily Barrett,PY - STAT Table,Guest,Other;,Other;,Interest in STAT program.
+141,9/26/23 15:19:51,9/26/23 15:21:14,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Computer Usage;,Other;,Using a computer.
+142,9/26/23 15:25:32,9/26/23 15:26:55,anonymous,,,9/26/2023,Chase,PY - AAH,Staff,Other;,WIFI;,Student asked for wifi help and issue was resolved.
+143,9/26/23 15:36:29,9/26/23 15:37:05,anonymous,,,9/26/2023,Caitin Heavner,PY - Lab,Student,Tech Help;,WIFI;,"needed wifi help but didn't have a SID, new student"
+144,9/26/23 15:45:02,9/26/23 15:45:59,anonymous,,,9/26/2023,Yessica Balderrama,PY - Lab,Student,Tech Help;,WIFI;,Student name is H Walter. She was having issues trying to log into WiFi. For some reason her chromebook had to do different settings than normal/modules has.
+145,9/26/23 15:23:33,9/26/23 15:58:22,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,Canvas;,Hadn't set up Canvas account yet and needed assistance.
+146,9/26/23 15:58:27,9/26/23 16:05:00,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Marketing publication interview.
+147,9/26/23 16:05:02,9/26/23 16:07:59,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,Needed assistance connecting to WiFi.
+148,9/26/23 16:08:02,9/26/23 16:08:50,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Other;,Other;,Marketing publication interview.
+149,9/26/23 15:27:03,9/26/23 16:11:51,anonymous,,,9/26/2023,Chase,PY - AAH,Staff,Other;,Other;,"Student had trouble finding class, so I walked her to her class."
+150,9/26/23 16:11:56,9/26/23 16:32:54,anonymous,,,9/26/2023,Chase,PY - AAH,Staff,Tech Help;,Student Email;,Helped her set up her student email for the first time. 
+151,9/26/23 15:46:03,9/26/23 16:58:46,anonymous,,,9/26/2023,Yessica B,PY - Lab,Student,Tech Help;,WIFI;,Student needed help with WiFi. Success!
+152,9/26/23 16:08:53,9/26/23 16:59:25,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Student,Computer Usage;Tech Help;,Student Email;,Setting up student email.
+153,9/26/23 17:00:52,9/26/23 17:01:33,anonymous,,,9/26/2023,Emily Barrett,PY - Lab,Guest,Tech Help;,WIFI;,New student connecting to WiFi.
+154,9/27/23 9:06:09,9/27/23 9:22:40,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Computer Usage;,WIFI;,"The student needed help accessing the wifi, and decided to use the lab computers for schoolwork as they cannot currently access the wifi. "
+155,9/27/23 9:22:48,9/27/23 9:25:20,anonymous,,,9/27/2023,Teresia,FS- Lab,Guest,Computer Usage;,Other;,student was guided on how to access and work in the lab.
+156,9/27/23 9:25:22,9/27/23 9:26:28,anonymous,,,9/27/2023,Teresia,FS- Lab,Guest,Computer Usage;,Other;,The student was guided and directed on lab access and usage.
+157,9/27/23 9:26:34,9/27/23 9:40:41,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Other;,WIFI;,The student needed help accessing the wifi
+158,9/27/23 9:45:21,9/27/23 9:46:18,anonymous,,,9/27/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,using a computer
+159,9/27/23 9:46:26,9/27/23 9:47:30,anonymous,,,9/27/2023,jacob,PY - Lab,Student,Other;,Student Email;,student needed help logging into email for the first time
+160,9/27/23 9:47:33,9/27/23 9:48:08,anonymous,,,9/27/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed jelp getting on the wifi 
+161,9/27/23 9:48:13,9/27/23 9:48:59,anonymous,,,9/27/2023,jacob,PY - Lab,Student,Tech Help;,Student Email;,student needed first time email password
+162,9/27/23 9:40:44,9/27/23 10:02:31,anonymous,,,9/27/2023,Teresia,FS- Lab,Guest,Other;,WIFI;,The student had forgotten her SID so she was not able to access the wifi as she couldn't input the password. Guidelines were given on how to access it next time.
+163,9/27/23 10:02:33,9/27/23 10:04:15,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Other;,WIFI;,Help accessing the wifi was given and the student was bale to access it. 
+164,9/27/23 10:04:18,9/27/23 10:05:48,anonymous,,,9/27/2023,Teresia,FS- Lab,Guest,Other;,WIFI;,The student was guided on how to access the wifi.
+165,9/27/23 10:15:51,9/27/23 10:17:20,anonymous,,,9/27/2023,Britton ,PY - Lab,Student,Computer Usage;,Other;,Needed to use computer.
+166,9/27/23 10:17:24,9/27/23 10:18:46,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Needed to use Computer.
+167,9/27/23 10:05:51,9/27/23 10:23:38,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;WIFI;,The student was guided on how to access the wifi and also used the lab computers for schoolwork.
+168,9/27/23 10:18:39,9/27/23 10:28:41,anonymous,,,9/27/2023,Nayeli Gabriel,FS- Lab,Guest,Other;,Other;,New student try to find class room. 
+169,9/27/23 10:28:48,9/27/23 10:31:04,anonymous,,,9/27/2023,Sabrina ,FS- Lab,Staff,Other;,Other;,Help from Tyler.
+170,9/27/23 10:31:33,9/27/23 10:32:41,anonymous,,,9/27/2023,Britton ,PY - Lab,Student,Printing;,Other;,Printing papers.
+171,9/27/23 10:32:44,9/27/23 10:34:20,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Printing;,Other;,Needed to use printer.
+172,9/27/23 10:34:23,9/27/23 10:36:04,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,Other;,Help with ctclink.
+173,9/27/23 10:36:06,9/27/23 10:36:58,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,Other;,person was hanging out.
+174,9/27/23 10:37:00,9/27/23 10:37:48,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,Other;,"Once more, a person was hanging out."
+175,9/27/23 10:37:51,9/27/23 10:38:28,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,Other;,Person was with a Friend.
+176,9/27/23 10:42:24,9/27/23 10:54:07,anonymous,,,9/27/2023,Britton ,PY - Lab,Guest,Printing;,Other;,Needed to use printer.
+177,9/27/23 10:31:08,9/27/23 11:06:14,anonymous,,,9/27/2023,Nayeli Gabriel Perez,FS- Lab,Student,Computer Usage;,Canvas;,Student problem accessing canvas. was able to help
+178,9/27/23 10:28:31,9/27/23 11:07:39,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Tech Help;Computer Usage;,WIFI;Canvas;,"The student needed guidance on accessing the wifi, operating Canvas, and attending his Zoom class."
+179,9/27/23 11:07:43,9/27/23 11:08:51,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student is using the lab computers for her school work.
+180,9/27/23 10:54:10,9/27/23 11:13:12,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,Other;,Issues with computer. 
+181,9/27/23 11:13:15,9/27/23 11:36:32,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,WIFI;,wi-fi sign in.
+182,9/27/23 11:36:39,9/27/23 11:37:44,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,Student Email;,help with student email.
+183,9/27/23 11:37:47,9/27/23 11:38:36,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Needed to use computer.
+184,9/27/23 11:38:40,9/27/23 11:40:09,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Needed WI-FI. 
+185,9/27/23 11:40:25,9/27/23 11:41:48,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,Other;,Did something.
+186,9/27/23 11:41:49,9/27/23 11:42:33,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Tech Help;,WIFI;,Wanted WI-FI.
+187,9/27/23 11:42:38,9/27/23 11:47:59,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Computer Usage;,Other;,Using a computer 
+188,9/27/23 11:48:01,9/27/23 11:48:36,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Computer Usage;,Other;,Needed to use computer.
+189,9/27/23 11:09:33,9/27/23 11:49:06,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student needed to use the lab computers for school work.
+190,9/27/23 11:48:38,9/27/23 11:49:25,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Needed to use computer for school work.
+191,9/27/23 11:49:27,9/27/23 11:50:20,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,WIFI;,Needs wi-fi.
+192,9/27/23 11:49:09,9/27/23 11:51:30,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Other;,Student Email;,"The student needed help accessing their student, email. "
+193,9/27/23 11:51:32,9/27/23 11:54:54,anonymous,,,9/27/2023,Teresia,FS- Lab,Student,Other;,WIFI;,"Wifi error, the student could not be helped. The issue was escalated to IT."
+194,9/27/23 11:50:23,9/27/23 12:02:07,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Printing;,Other;,Needed to print.
+195,9/27/23 12:02:17,9/27/23 12:02:51,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Printing;,Other;,Printing.
+196,9/27/23 12:02:53,9/27/23 12:03:41,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Printing;,Other;,Needed printer.
+197,9/27/23 12:03:49,9/27/23 12:09:07,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,Student Email;,Needs to set up student email.
+198,9/27/23 12:16:37,9/27/23 12:17:15,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,Office 365;,"Asked a question about a Office 365 error, issue was resolved."
+199,9/27/23 12:17:20,9/27/23 12:25:07,anonymous,,,9/27/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,"Student asked for help on Wifi, but since they're a new student and PierceOpen isn't working currently, all I could do was tell them that it might be working by the end of the week."
+200,9/27/23 12:17:08,9/27/23 12:29:33,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Staff,Tech Help;,WIFI;,Staff member wasn't able to log into the PierceWifi network with their Google Pixel. 
+201,9/27/23 12:09:10,9/27/23 12:29:45,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Needs WI-FI
+202,9/27/23 12:29:47,9/27/23 12:31:18,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Canvas;,Needed computer for school work.
+203,9/27/23 12:29:38,9/27/23 12:34:03,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Staff,Tech Help;,WIFI;Office 365;,"An employee was having trouble logging into the PierceWifi network, and also logging into Office365. The issue was fixed after resetting their network password."
+204,9/27/23 12:12:28,9/27/23 12:49:17,anonymous,,,9/27/2023,Jabez,FS- Lab,Guest,Other;,WIFI;,Guest had a question about the WiFi on campus
+205,9/27/23 12:25:12,9/27/23 12:59:18,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,Student Email;,"Student needed a password reset, issue was resolved."
+206,9/27/23 12:49:20,9/27/23 13:01:29,anonymous,,,9/27/2023,Jabez ,FS- Lab,Student,Computer Usage;,Other;,N/A
+207,9/27/23 12:59:32,9/27/23 13:05:03,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,"Needed to get on wifi, but registered recently."
+208,9/27/23 13:05:07,9/27/23 13:06:21,anonymous,,,9/27/2023,Jonas,PY - Lab,Staff,Tech Help;,WIFI;,"Student needed to log onto wifi, couldn't remember when he registered, helped with getting him onto wifi."
+209,9/27/23 12:34:05,9/27/23 13:17:26,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Staff,Tech Help;,Office 365;,NA
+210,9/27/23 13:17:28,9/27/23 13:17:51,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Guest,Other;,Other;,NA
+211,9/27/23 13:06:25,9/27/23 13:22:41,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Other;,Other;,Student needed help finding a teachers office.
+212,9/27/23 13:22:47,9/27/23 13:23:30,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Other;,WIFI;,"Needed help with wifi, but registered after July."
+213,9/27/23 13:23:36,9/27/23 13:24:51,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Printing;,Other;,Student used printer in PY lab.
+214,9/27/23 13:09:49,9/27/23 13:27:39,anonymous,,,9/27/2023,Lola Cordero,FS- Lab,Staff,Other;,Other;,Had a question about the availability of the lab.
+215,9/27/23 12:31:23,9/27/23 13:29:21,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,Other;,Just working on school work for the time being.
+216,9/27/23 13:17:54,9/27/23 13:29:31,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Staff,Tech Help;,Office 365;,Needed help with opening an emailed file in Excel and editing it.
+217,9/27/23 13:24:59,9/27/23 13:32:36,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,"Student wanted to get on wifi, but registered after July. "
+218,9/27/23 13:31:15,9/27/23 13:33:23,anonymous,,,9/27/2023,Florian Williams,FS - Design Studio,Guest,Other;,Other;,Asking questions about recording booth
+219,9/27/23 13:32:38,9/27/23 13:34:14,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,"Student wanted to get onto wifi, and she was able to log onto is successfully."
+220,9/27/23 13:34:16,9/27/23 13:37:51,anonymous,,,9/27/2023,Chase,PY - Lab,Student,Printing;,Other;,Student wanted to print in the PY lab.
+221,9/27/23 13:40:03,9/27/23 13:40:55,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Student,Tech Help;Computer Usage;,Other;,Needed assistance figuring out how to sign into Zoom and join a meeting on the library computer.
+222,9/27/23 13:40:57,9/27/23 13:41:26,anonymous,,,9/27/2023,Priscilla Hug,PY - Library,Student,Tech Help;,WIFI;,NA
+223,9/27/23 13:37:53,9/27/23 13:42:21,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Other;,Other;,Aaron.
+224,9/27/23 13:42:25,9/27/23 13:49:19,anonymous,,,9/27/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,Just came through to ask where room 274 is and using the computer. 
+225,9/27/23 13:27:43,9/27/23 13:53:47,anonymous,,,9/27/2023,Lola Cordero,FS- Lab,Student,Tech Help;,Other;,Student had a question about signing into adobe.
+226,9/27/23 13:49:22,9/27/23 13:56:41,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Computer Usage;Other;,Other;,Using computers and going to class.
+227,9/27/23 13:56:43,9/27/23 13:57:05,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Computer Usage;Other;,Other;,Using computers and going to class.
+228,9/27/23 13:58:17,9/27/23 14:01:29,anonymous,,,9/27/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,"Needed wifi help, connected her onto it."
+229,9/27/23 13:29:24,9/27/23 14:04:50,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,Student Email;,Email password reset. 
+230,9/27/23 14:04:52,9/27/23 14:05:45,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Using computer.
+231,9/27/23 14:05:46,9/27/23 14:06:35,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Using computer.
+232,9/27/23 14:06:37,9/27/23 14:08:23,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,Other;,Person just hanging out.
+233,9/27/23 14:08:28,9/27/23 14:08:59,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,Other;,Person was here.
+234,9/27/23 14:09:00,9/27/23 14:09:29,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Other;,Other;,Person was here.
+235,9/27/23 14:09:10,9/27/23 14:09:55,anonymous,,,9/27/2023,Florian Williams,FS - Design Studio,Guest,Other;,Other;,Checking out the studio
+236,9/27/23 14:09:31,9/27/23 14:11:02,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Computer Usage;,Canvas;,Working on school work.
+237,9/27/23 13:01:33,9/27/23 14:20:00,anonymous,,,9/27/2023,Jabez,FS- Lab,Guest,Other;,Student Email;,Student had a question about accessing student email 
+238,9/27/23 14:11:05,9/27/23 14:35:00,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Help with WIFI. 
+239,9/27/23 14:35:19,9/27/23 14:36:08,anonymous,,,9/27/2023,Florian Williams,FS - Design Studio,Guest,Other;,Other;,Came to see if there was anyone to help.
+240,9/27/23 14:35:03,9/27/23 14:40:46,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,Other;,Using their own computer.
+241,9/27/23 14:40:48,9/27/23 14:41:54,anonymous,,,9/27/2023,Britton,PY - Lab,Student,Other;,Other;,"Working on school, on their laptop."
+242,9/27/23 14:18:00,9/27/23 14:46:24,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Other;,Can't activate CTClink.
+243,9/27/23 15:01:53,9/27/23 15:02:33,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Office 365;Student Email;,Activated student email.
+244,9/27/23 15:05:36,9/27/23 15:08:34,anonymous,,,9/27/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Came in to use recording studio
+245,9/27/23 15:17:40,9/27/23 15:18:18,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,Guest
+246,9/27/23 15:18:21,9/27/23 15:19:09,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Guest,Other;Tech Help;,WIFI;,WIFI login. 
+247,9/27/23 14:21:07,9/27/23 15:23:50,anonymous,,,9/27/2023,Jabez ,FS- Lab,Guest,Other;,Other;,Student had a question about printing in the lab. 
+248,9/27/23 15:24:05,9/27/23 15:24:56,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,Computer use.
+249,9/27/23 15:26:09,9/27/23 15:26:52,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,computer use
+250,9/27/23 15:31:17,9/27/23 15:31:45,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Staff,Printing;,Other;,Printer use.
+251,9/27/23 15:20:47,9/27/23 15:53:29,anonymous,,,9/27/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Other;,Help with computer.
+252,9/27/23 15:53:31,9/27/23 15:54:52,anonymous,,,9/27/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Came in for help on a computer.
+253,9/27/23 15:54:54,9/27/23 16:07:49,anonymous,,,9/27/2023,Britton,PY - Lab,Guest,Tech Help;,WIFI;,Wanted WIFI.
+254,9/27/23 15:31:49,9/27/23 16:37:33,anonymous,,,9/27/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Study Table;,Other;,lina!!!
+255,9/27/23 16:06:41,9/27/23 17:01:25,anonymous,,,9/27/2023,Florian Williams,FS - Design Studio,Guest,Other;,WIFI;,Asking for Ethernet cable
+256,9/28/23 9:10:11,9/28/23 9:10:43,anonymous,,,9/28/2023,jacob,PY - Lab,Student,Printing;,Other;,student needed to print
+257,9/28/23 9:10:49,9/28/23 9:11:32,anonymous,,,9/28/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed elp to forget pierce guest before connecting to pierce wifi 
+258,9/28/23 9:11:35,9/28/23 9:12:16,anonymous,,,9/28/2023,jacob,PY - Lab,Guest,Other;,Other;,student came in with another student 
+259,9/28/23 9:12:18,9/28/23 9:12:40,anonymous,,,9/28/2023,jacob,PY - Lab,Guest,Other;,Other;,student came in with another student 
+260,9/28/23 9:33:25,9/28/23 9:50:32,anonymous,,,9/28/2023,Kayla,PY - Library,Staff,Tech Help;,WIFI;,Couldn’t log on to PierceOpen. 
+261,9/28/23 10:07:30,9/28/23 10:08:02,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,Student asked about wifi access for his personal computer.
+262,9/28/23 10:08:03,9/28/23 10:10:49,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Other;,Other;,"""I don't know why I'm here"""
+263,9/28/23 10:10:52,9/28/23 10:13:39,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,"Asked about wifi on her personal computer, was unable to connect as they are a new student."
+264,9/28/23 10:13:41,9/28/23 10:16:52,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Other;,WIFI;,"Student was unable to connect to wifi on her personal laptop, unable to fix."
+265,9/28/23 9:50:36,9/28/23 10:27:25,anonymous,,,9/28/2023,Kayla,PY - Library,Student,Other;,WIFI;,"Help with Wi-Fi
+"
+266,9/28/23 10:16:54,9/28/23 10:27:34,anonymous,,,9/28/2023,Chase,PY - Library,Staff,Tech Help;,Canvas;,"Teacher needed help with logging into Canvas, Jacob went to her classroom to help fix it, and it was fixed."
+267,9/28/23 10:27:43,9/28/23 10:28:23,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Computer Usage;,Other;,Ms.Orchard came in to use a computer in the PY lab.
+268,9/28/23 10:27:50,9/28/23 10:28:53,anonymous,,,9/27/2023,Nick,Zoom Appointments,Student,Other;,Office 365;,Student wanted to access Excel on Macbook
+269,9/28/23 10:28:25,9/28/23 10:29:13,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Computer Usage;,Other;,Came into lab with Ms.Orchard.
+270,9/28/23 10:29:15,9/28/23 10:34:06,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Tech Help;,WIFI;,Needed wifi help.
+271,9/28/23 10:34:09,9/28/23 10:35:27,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+272,9/28/23 10:35:29,9/28/23 10:44:34,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,"Student wanted to connect to wifi on personal computer, and he was connected to it successfully."
+273,9/28/23 10:44:38,9/28/23 11:10:51,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Other;,Other;,"Student needed help applying to Pierce, so I took her to the admissions office."
+274,9/28/23 11:10:53,9/28/23 11:12:40,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Tech Help;,Office 365;,Student needs help with office 365.
+275,9/28/23 11:12:47,9/28/23 11:15:01,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Student needed help getting onto wifi.
+276,9/28/23 11:15:05,9/28/23 11:16:04,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Other;,Other;,Professor
+277,9/28/23 11:16:06,9/28/23 11:19:14,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Other;,Other;,Asked where a classroom was.
+278,9/28/23 11:19:16,9/28/23 11:19:56,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Other;,Other;,Also asked where a classroom was.
+279,9/28/23 11:19:58,9/28/23 11:21:47,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Tech Help;,Office 365;,Professor needed help with email access.
+280,9/28/23 11:21:49,9/28/23 11:22:26,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Other;,Other;,Classroom
+281,9/28/23 11:22:28,9/28/23 11:26:50,anonymous,,,9/28/2023,Chase,PY - Lab,Staff,Tech Help;Computer Usage;,Office 365;,Needed to look into some issues with email.
+282,9/28/23 10:27:27,9/28/23 11:33:53,anonymous,,,9/28/2023,Kayla,PY - Library,Staff,Other;Tech Help;,WIFI;Student Email;,Help getting into email
+283,9/28/23 11:34:01,9/28/23 11:35:13,anonymous,,,9/28/2023,Chase,PY - Library,Student,Tech Help;,WIFI;,Student needed help with wifi
+284,9/28/23 11:35:41,9/28/23 11:39:22,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Student needed help logging into wifi
+285,9/28/23 11:39:26,9/28/23 11:40:54,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Computer Usage;,Other;,Using a computer
+286,9/28/23 11:42:59,9/28/23 11:43:32,anonymous,,,9/28/2023,Kayla,PY - Library,Staff,Tech Help;,Student Email;,Help getting into student email
+287,9/28/23 11:40:57,9/28/23 11:45:25,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,Using computer
+288,9/28/23 11:45:27,9/28/23 11:50:11,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Tech Help;,Student Email;,Needs help logging in.
+289,9/28/23 12:05:04,9/28/23 12:05:59,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Tech Help;,Other;,Starfish
+290,9/28/23 12:06:20,9/28/23 12:06:50,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Other;Tech Help;,Other;,Starfish
+291,9/28/23 11:29:14,9/28/23 12:27:55,anonymous,,,9/28/2023,Jabez Gomez ,FS- Lab,Guest,Other;Tech Help;,WIFI;,Guest had a question about accessing the WiFi
+292,9/28/23 11:50:13,9/28/23 12:33:00,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+293,9/28/23 12:33:01,9/28/23 12:33:16,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+294,9/28/23 12:33:17,9/28/23 12:34:08,anonymous,,,9/28/2023,Chase ,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+295,9/28/23 12:34:10,9/28/23 12:34:36,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+296,9/28/23 12:34:39,9/28/23 12:35:03,anonymous,,,9/28/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,Needed wifi help.
+297,9/28/23 12:27:59,9/28/23 12:47:57,anonymous,,,9/28/2023,Jabez,FS- Lab,Guest,Other;,Other;,Guest had a question about where IT was located
+298,9/28/23 12:48:00,9/28/23 12:48:29,anonymous,,,9/28/2023,Jabez,FS- Lab,Guest,Other;,Other;,Guest had a question about where IT was located
+299,9/28/23 12:52:03,9/28/23 12:53:18,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Tech Help;,Student Email;Office 365;,Trying to get into email. 
+300,9/28/23 12:54:17,9/28/23 12:55:22,anonymous,,,9/28/2023,Jabez,FS- Lab,Staff,Tech Help;Printing;,Other;,They were looking to see where the 3D printing was located. I was able to help redirect them. 
+301,9/28/23 12:58:55,9/28/23 12:59:43,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Tech Help;,WIFI;,Help getting on Wi-Fi
+302,9/28/23 12:58:41,9/28/23 12:59:47,anonymous,,,9/28/2023,Florian Williams ,FS - Design Studio,Student,Other;,Other;,Recording studio
+303,9/28/23 12:59:51,9/28/23 13:01:23,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Tech Help;,WIFI;,Could not get into wifi
+304,9/28/23 13:04:36,9/28/23 13:07:08,anonymous,,,9/28/2023,Vahn Frantz c,PY - Lab,Student,Other;,WIFI;,Resolved
+305,9/28/23 13:07:10,9/28/23 13:08:24,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,Resolved
+306,9/28/23 13:08:25,9/28/23 13:09:41,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;, resolved
+307,9/28/23 13:09:43,9/28/23 13:10:44,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,Resolved
+308,9/28/23 13:10:55,9/28/23 13:12:14,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,Resolved
+309,9/28/23 13:12:16,9/28/23 13:13:14,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;, 
+310,9/28/23 13:13:16,9/28/23 13:14:58,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,WiFi isn’t connecting 
+311,9/28/23 13:14:59,9/28/23 13:17:31,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,Issue connecting to WiFi from Highschool loaned computer
+312,9/28/23 13:17:33,9/28/23 13:19:05,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,Issue with connecting to WiFi from highschool loaned computer
+313,9/28/23 13:18:58,9/28/23 13:20:19,anonymous,,,9/28/2023,Nick,Zoom Appointments,Student,Tech Help;,Office 365;,"Studying was not able to log into Office 365 so he can access excel, we also helped clean his computer by deleting temporary files"
+314,9/28/23 13:19:07,9/28/23 13:21:24,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,Issue with connecting to WiFi from highschool loaned computer
+315,9/28/23 13:21:29,9/28/23 13:22:14,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,Issues with connecting to WiFi from highschool loaned computer
+316,9/28/23 13:22:16,9/28/23 13:23:39,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Printing;,Other;,Printing
+317,9/28/23 13:23:42,9/28/23 13:24:24,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Study Table;Other;,Other;,Guest
+318,9/28/23 13:25:10,9/28/23 13:27:05,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New Student
+319,9/28/23 13:27:07,9/28/23 13:27:59,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+320,9/28/23 13:28:01,9/28/23 13:28:49,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+321,9/28/23 13:28:51,9/28/23 13:29:53,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+322,9/28/23 13:29:55,9/28/23 13:30:47,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+323,9/28/23 13:30:49,9/28/23 13:31:27,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+324,9/28/23 13:31:28,9/28/23 13:32:02,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+325,9/28/23 13:32:07,9/28/23 13:33:33,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+326,9/28/23 13:33:35,9/28/23 13:34:12,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Guest,Other;,WIFI;,New student
+327,9/28/23 13:36:46,9/28/23 13:38:09,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Study Table;,Other;,Study table
+328,9/28/23 13:38:11,9/28/23 13:38:43,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Study Table;,Other;,Study table
+329,9/28/23 13:41:39,9/28/23 13:42:08,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,New student
+330,9/28/23 12:35:07,9/28/23 13:48:45,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Tech Help;,Office 365;,Needs help with Microsoft Word.
+331,9/28/23 13:48:50,9/28/23 13:50:42,anonymous,,,9/28/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,Student needed help with connecting to the wifi.
+332,9/28/23 13:42:24,9/28/23 13:56:26,anonymous,,,9/28/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,New student
+333,9/28/23 14:01:02,9/28/23 14:14:43,anonymous,,,9/28/2023,Kayla,PY - Lab,Student,Tech Help;,Canvas;WIFI;,Help with WiFi and signing into canvas
+334,9/28/23 12:55:26,9/28/23 14:29:47,anonymous,,,9/28/2023,Jabez,FS- Lab,Student,Computer Usage;,Other;,N/A
+335,9/28/23 14:30:03,9/28/23 14:31:50,anonymous,,,9/28/2023,Jabez,FS- Lab,Student,Computer Usage;,Other;,N/A
+336,9/28/23 14:30:46,9/28/23 14:31:50,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Doing school work.
+337,9/28/23 14:34:32,9/28/23 14:39:21,anonymous,,,9/28/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,Needed assistance connecting to the WiFi.
+338,9/28/23 14:39:26,9/28/23 14:40:14,anonymous,,,9/28/2023,Emily Barrett,PY - Lab,Guest,Printing;,Other;,Printer usage.
+339,9/28/23 14:38:34,9/28/23 14:40:22,anonymous,,,9/28/2023,Nick,Zoom Appointments,Student,Tech Help;,Other;,"The student wanted to access an External educational service but a proxy server was blocking access, tried it on my end but got the same issue, directed her to IT"
+340,9/28/23 14:31:52,9/28/23 14:44:57,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Guest,Tech Help;,Other;,Needs help with something on computer.
+341,9/28/23 14:31:53,9/28/23 14:45:24,anonymous,,,9/28/2023,Mia,FS- Lab,Student,Computer Usage;,Other;,N/A
+342,9/28/23 13:34:58,9/28/23 14:54:41,anonymous,,,9/28/2023,Florian Williams,FS - Design Studio,Student,Tech Help;,WIFI;Student Email;,Helped them
+343,9/28/23 14:45:03,9/28/23 14:56:08,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Needed help with WIFI.
+344,9/28/23 14:56:11,9/28/23 14:59:16,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Worked on a computer.
+345,9/28/23 14:59:18,9/28/23 15:00:16,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Using computer.
+346,9/28/23 14:41:43,9/28/23 15:00:18,anonymous,,,9/28/2023,Emily Barrett,PY - Lab,Student,Printing;Tech Help;,Other;,Needed assistance with printing.
+347,9/28/23 15:00:17,9/28/23 15:01:11,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Computer Usage;,Other;,Working on school.
+348,9/28/23 15:01:12,9/28/23 15:02:02,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Exploring the room.
+349,9/28/23 14:42:05,9/28/23 15:03:58,anonymous,,,9/28/2023,Kayla,PY - Lab,Staff,Tech Help;,Canvas;,Trouble logging into Canvas. 
+350,9/28/23 15:02:04,9/28/23 15:05:40,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Was trying to download something.
+351,9/28/23 15:05:42,9/28/23 15:07:35,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Appling for a job. 
+352,9/28/23 15:07:37,9/28/23 15:08:13,anonymous,,,9/28/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Talking to somebody.
+353,9/28/23 15:09:37,9/28/23 15:10:28,anonymous,,,9/28/2023,Florian Williams,FS - Design Studio,Guest,Tech Help;,Student Email;,Helped
+354,9/28/23 15:10:31,9/28/23 15:11:33,anonymous,,,9/28/2023,Florian Williams,FS - Design Studio,Guest,Tech Help;,WIFI;,Student helped
+355,9/28/23 15:11:35,9/28/23 15:12:32,anonymous,,,9/28/2023,Florian Williams,FS - Design Studio,Student,Tech Help;,Canvas;,Mobile log in issue
+356,9/28/23 15:08:16,9/28/23 15:19:59,anonymous,,,9/28/2023,Britton ,PY - Lab,Student,Tech Help;,WIFI;,Needed to sign in for WIFI
+357,9/28/23 15:00:22,9/28/23 15:24:40,anonymous,,,9/28/2023,Emily Barrett,PY - Lab,Guest,Tech Help;,WIFI;,New student cannot connect to wifi.
+358,9/28/23 15:20:02,9/28/23 15:49:35,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,School wrok.
+359,9/28/23 15:51:32,9/28/23 15:52:35,anonymous,,,9/28/2023,Mia,FS- Lab,Student,Computer Usage;,Other;,N/A
+360,9/28/23 15:49:37,9/28/23 15:53:20,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Person came in.
+361,9/28/23 15:52:38,9/28/23 15:53:32,anonymous,,,9/28/2023,Mia,FS- Lab,Staff,Printing;,Other;,couldn't log into print account (username Library)
+362,9/28/23 15:53:23,9/28/23 15:54:04,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Did something.
+363,9/28/23 15:54:05,9/28/23 15:55:24,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Person was curious about lab.
+364,9/28/23 15:55:26,9/28/23 15:57:37,anonymous,,,9/28/2023,Britton ,PY - Lab,Student,Other;,Other;,Asked for directions.
+365,9/28/23 15:57:38,9/28/23 15:59:16,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Worked on school.
+366,9/28/23 15:59:17,9/28/23 16:00:15,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Looked at the 3D printers.
+367,9/28/23 16:00:17,9/28/23 16:01:36,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,"Played against Jonas, the chess king."
+368,9/28/23 16:01:38,9/28/23 16:03:17,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,"Sat around, playing on their switch."
+369,9/28/23 16:03:21,9/28/23 16:07:50,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Computer work. 
+370,9/28/23 16:07:52,9/28/23 16:08:32,anonymous,,,9/28/2023,Britton,PY - Lab,Guest,Other;,Other;,something
+371,9/28/23 16:08:33,9/28/23 16:10:05,anonymous,,,9/28/2023,Britton,PY - Lab,Guest,Other;,Other;,"something, more likely working on their email."
+372,9/28/23 16:10:07,9/28/23 16:10:51,anonymous,,,9/28/2023,Britton,PY - Lab,Staff,Other;,Student Email;,"Came in.
+"
+373,9/28/23 16:11:55,9/28/23 16:12:22,anonymous,,,9/28/2023,Yessica B,PY - Lab,Guest,Other;,Other;,Student
+374,9/28/23 16:10:58,9/28/23 16:15:05,anonymous,,,9/28/2023,Britton,PY - Lab,Guest,Other;,Other;,came in asking for printer paper.
+375,9/28/23 16:13:24,9/28/23 16:15:46,anonymous,,,9/28/2023,Emily Barrett,Zoom Appointments,Student,Tech Help;,Office 365;Student Email;,"New student applying to the nursing program; due to recent registration, student email does not yet work."
+376,9/28/23 16:15:06,9/28/23 16:15:58,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,Other;,Came in with guest.
+377,9/28/23 16:33:43,9/28/23 16:35:58,anonymous,,,9/28/2023,Kayla,PY - Lab,Guest,Study Table;,Other;,iPad use
+378,9/28/23 16:36:00,9/28/23 16:38:54,anonymous,,,9/28/2023,Kayla,PY - Library,Student,Study Table;,Other;,Study tables
+379,9/28/23 16:39:01,9/28/23 16:39:31,anonymous,,,9/28/2023,Kayla,PY - Lab,Student,Study Table;,Other;,Study table
+380,9/28/23 16:15:59,9/28/23 16:39:54,anonymous,,,9/28/2023,Britton,PY - Lab,Guest,Other;,Other;,"Hung out, near the chess table."
+381,9/28/23 16:39:33,9/28/23 16:40:33,anonymous,,,9/28/2023,Kayla,PY - Lab,Guest,Study Table;,Other;,Study table
+382,9/28/23 16:41:44,9/28/23 16:43:45,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Needed WIFI for classes
+383,9/28/23 16:43:45,9/28/23 16:44:42,anonymous,,,9/28/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Helped connect
+384,9/28/23 16:43:46,9/28/23 16:46:33,anonymous,,,9/28/2023,Britton,PY - Lab,Student,Other;,WIFI;,WIFI for class.
+385,9/29/23 9:28:22,9/29/23 9:31:49,anonymous,,,9/29/2023,Taylor Swensen,PY - Lab,Student,Other;,Other;,Student left an interest form for Makerspace Facilitator.
+386,9/29/23 9:31:52,9/29/23 9:33:17,anonymous,,,9/29/2023,Taylor Swensen,PY - Lab,Student,Tech Help;,WIFI;,Student was wondering if the Pierce Open WIFI network issue had been resolved. I told him unfortunately the system is still overwhelmed with the amount of new students. I was unable to get a SID
+387,9/29/23 9:53:52,9/29/23 9:56:47,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,.
+388,9/29/23 10:03:25,9/29/23 10:04:03,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,OSL needed me to open c274
+389,9/29/23 10:04:06,9/29/23 10:31:27,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Office 365;Student Email;,Needs to activate student email.
+390,9/29/23 9:33:19,9/29/23 10:46:13,anonymous,,,9/29/2023,Taylor Swensen,PY - Lab,Student,Tech Help;,Office 365;,Student needed assistance with learning how to save and export Microsoft Word documents as a PDF.
+391,9/29/23 10:48:15,9/29/23 10:53:34,anonymous,,,9/29/2023,Taylor Swensen,PY - Lab,Student,Other;,Other;,Student was being given a tour of campus. Quick drop in- unable to get SID
+392,9/29/23 11:28:33,9/29/23 11:29:11,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Other;Study Table;,Other;,Chase !
+393,9/29/23 11:53:07,9/29/23 11:53:50,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Study Table;Other;,Other;,Lina!
+394,9/29/23 12:15:47,9/29/23 12:16:19,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Printing;Computer Usage;,Other;,none
+395,9/29/23 12:25:26,9/29/23 12:26:01,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,.
+396,9/29/23 12:28:19,9/29/23 12:29:05,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,.
+397,9/29/23 12:55:51,9/29/23 12:59:09,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Staff,Computer Usage;Study Table;,Other;,Rowan!!
+398,9/29/23 13:07:06,9/29/23 13:08:36,anonymous,,,9/29/2023,Breanna,Email,Student,Tech Help;,Other;,can't get into ctcLink account - sent them to registration to verify information is correct
+399,9/29/23 13:12:36,9/29/23 13:13:05,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,00
+400,9/29/23 13:20:10,9/29/23 13:20:46,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Printing;,Other;,printing
+401,9/29/23 13:20:51,9/29/23 13:21:18,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,.
+402,9/29/23 13:21:21,9/29/23 13:22:22,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Other;,Other;,Stapler
+403,9/29/23 13:24:26,9/29/23 13:25:14,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,.
+404,9/29/23 13:29:12,9/29/23 13:30:13,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,00
+405,9/29/23 13:44:16,9/29/23 13:45:10,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Staff,Printing;,Other;,none
+406,9/29/23 14:35:51,9/29/23 14:38:37,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Tech Help;Printing;,Other;,.
+407,9/29/23 14:38:41,9/29/23 14:47:22,anonymous,,,9/29/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Tech Help;,Canvas;,ctclink
+408,10/1/23 11:53:55,10/1/23 11:54:41,anonymous,,,9/25/2023,Breanna,Email,Student,Other;,Other;,Student asked for a Laptop
+409,10/1/23 11:54:44,10/1/23 11:55:35,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to Student email
+410,10/1/23 11:55:37,10/1/23 11:56:33,anonymous,,,9/25/2023,Breanna,Email,Student,Other;,Other;,Wanted to reach out to STAT 
+411,10/1/23 11:56:35,10/1/23 11:57:59,anonymous,,,9/25/2023,Breanna,Email,Student,Other;,Other;,Laptop request
+412,10/1/23 11:58:01,10/1/23 11:59:17,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Canvas;,Class calendar on Canvas
+413,10/1/23 11:59:20,10/1/23 12:00:10,anonymous,,,10/25/2023,Breanna,Email,Student,Other;,Other;,Student wanted to borrow a Chromebook
+414,10/1/23 12:00:15,10/1/23 12:01:07,anonymous,,,9/26/2023,Breanna,Email,Student,Other;,Other;,Student wanted to check out a Chromebook
+415,10/1/23 12:01:15,10/1/23 12:01:50,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to Student email
+416,10/1/23 12:01:52,10/1/23 12:02:36,anonymous,,,9/26/2023,Breanna,Email,Student,Other;,Other;,Student wanted to borrow a Chromebook
+417,10/1/23 12:02:38,10/1/23 12:03:53,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Student Email;,Reseting Student email
+418,10/1/23 12:04:11,10/1/23 12:05:09,anonymous,,,9/26/2023,Breanna,Email,Guest,Other;,Other;,Parent reaching out for process of applying for Chromebook for her daughters who are attending PY campus
+419,10/1/23 12:05:36,10/1/23 12:06:12,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to Student email
+420,10/1/23 12:06:15,10/1/23 12:07:31,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to student email
+421,10/1/23 12:07:33,10/1/23 12:11:11,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to Student email
+422,10/1/23 12:11:13,10/1/23 12:11:53,anonymous,,,9/25/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to Student email
+423,10/1/23 12:12:09,10/1/23 12:12:44,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Student Email;,Password reset
+424,10/1/23 12:12:58,10/1/23 12:13:18,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Canvas;,Canvas is locked
+425,10/1/23 12:13:20,10/1/23 12:14:12,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Canvas;,Screen shot of Coursework
+426,10/1/23 12:14:21,10/1/23 12:14:47,anonymous,,,9/26/2023,Breanna,Email,Student,Other;,Other;,Borrow a laptop
+427,10/1/23 12:15:00,10/1/23 12:15:29,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Student Email;,Password reset
+428,10/1/23 12:15:36,10/1/23 12:16:05,anonymous,,,9/26/2023,Breanna,Email,Student,Other;,Other;,Borrow a laptop
+429,10/1/23 12:16:19,10/1/23 12:16:47,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Canvas;,Access to ctcLink
+430,10/1/23 12:16:53,10/1/23 12:17:17,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Student Email;,Access to email
+431,10/1/23 12:17:38,10/1/23 12:18:00,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Canvas;,Access to ctcLink
+432,10/1/23 12:18:13,10/1/23 12:18:39,anonymous,,,9/26/2023,Breanna,Email,Student,Tech Help;,Other;,Question on Zoom
+433,10/1/23 12:18:46,10/1/23 12:19:10,anonymous,,,9/27/2023,Breanna,Email,Student,Other;,Other;,Borrow a laptop
+434,10/1/23 12:19:16,10/1/23 12:19:50,anonymous,,,9/27/2023,Breanna,Email,Student,Tech Help;,Office 365;,Login into Office 365
+435,10/1/23 12:19:58,10/1/23 12:20:22,anonymous,,,9/27/2023,Breanna,Email,Student,Other;,Other;,Borrow a laptop
+436,10/1/23 12:20:29,10/1/23 12:21:03,anonymous,,,9/27/2023,Breanna,Email,Student,Other;,Other;,Access to email
+437,10/1/23 12:21:09,10/1/23 12:22:41,anonymous,,,9/27/2023,Breanna,Email,Student,Tech Help;,WIFI;Student Email;,Access to wifi and emails
+438,10/1/23 12:22:43,10/1/23 12:23:32,anonymous,,,9/27/2023,Breanna,Email,Student,Other;,Other;,Wants to borrow WIFI hotspot
+439,10/1/23 12:23:39,10/1/23 12:24:05,anonymous,,,9/27/2023,Breanna,Email,Student,Other;,Other;,Navigating Zoom
+440,10/1/23 12:24:07,10/1/23 12:25:48,anonymous,,,9/28/2023,Breanna,Email,Student,Tech Help;,Other;,Editing excel
+441,10/1/23 12:25:53,10/1/23 12:27:27,anonymous,,,9/28/2023,Breanna,Email,Student,Tech Help;,Student Email;,Email access
+442,10/1/23 12:27:29,10/1/23 12:30:01,anonymous,,,9/28/2023,Breanna,Email,Student,Other;,Other;,Adobe Login error
+443,10/1/23 12:30:09,10/1/23 12:30:42,anonymous,,,9/28/2023,Breanna,Email,Student,Tech Help;,Canvas;,Canvas access
+444,10/2/23 8:48:09,10/2/23 8:49:01,anonymous,,,10/2/2023,Breanna,Email,Student,Other;,Other;,inquiring about chromebook
+445,10/2/23 9:03:30,10/2/23 9:04:35,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student is using the lab for personal studies.
+446,10/2/23 8:49:04,10/2/23 9:05:44,anonymous,,,10/2/2023,Breanna,Email,Student,Tech Help;,Canvas;,student is enrolled in session 2 and was wondering why they couldn't view their class yet
+447,10/2/23 9:05:47,10/2/23 9:07:12,anonymous,,,10/2/2023,Breanna,Email,Student,Other;,Other;,Inquired about chromebook borrowing
+448,10/2/23 9:18:52,10/2/23 9:20:16,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,"NA
+"
+449,10/2/23 9:20:19,10/2/23 9:21:01,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,Canvas;WIFI;,NA
+450,10/2/23 9:21:04,10/2/23 9:21:31,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Staff,Tech Help;,WIFI;,NA
+451,10/2/23 9:21:34,10/2/23 9:22:10,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Guest,Other;,Other;,NA
+452,10/2/23 9:23:21,10/2/23 9:37:13,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,"NA
+"
+453,10/2/23 9:37:15,10/2/23 9:37:46,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,NA
+454,10/2/23 10:07:36,10/2/23 10:18:28,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needed to sigh in to WIFI.
+455,10/2/23 10:18:31,10/2/23 10:19:46,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Worked on school work.
+456,10/2/23 10:19:48,10/2/23 10:20:52,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,WIFI usage.
+457,10/2/23 10:20:54,10/2/23 10:21:30,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Tech Help;,WIFI;,Couldn't get onto WIFI.
+458,10/2/23 10:21:31,10/2/23 10:22:45,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needed WIFI help.
+459,10/2/23 10:22:47,10/2/23 10:23:43,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,WIFI help.
+460,10/2/23 10:23:45,10/2/23 10:24:31,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Sitting at one of the tables.
+461,10/2/23 9:06:27,10/2/23 10:38:12,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Tech Help;,WIFI;,The student was guided on how to access and log in to the wifi
+462,10/2/23 10:38:15,10/2/23 10:43:52,anonymous,,,10/2/2023,Teresia,PY - Lab,Student,Tech Help;,Student Email;Office 365;,The student was guided on how to access her student email and how to use the office 365.
+463,10/2/23 10:24:32,10/2/23 10:50:59,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,"computer usage.
+"
+464,10/2/23 10:49:56,10/2/23 10:51:24,anonymous,,,10/2/2023,Nick,FS- Lab,Student,Tech Help;,Canvas;,The learning platform doesn't connect to Canvas for the grading system. I have sent the student to eLearning
+465,10/2/23 10:58:07,10/2/23 11:00:14,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Tech Help;,WIFI;,"The student was not able to access the wifi, they are to drop by within the week, and also wait for an email from the school activating their account."
+466,10/2/23 10:51:02,10/2/23 11:03:28,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Tech Help;,WIFI;,Needed help sighing in to WIFI.
+467,10/2/23 11:00:17,10/2/23 11:05:44,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student used the lab computers for school work
+468,10/2/23 11:05:46,10/2/23 11:06:49,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Other;,WIFI;,The student was guided on accessing the wifi.
+469,10/2/23 11:03:30,10/2/23 11:10:28,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needed help logging in to WIFI
+470,10/2/23 11:10:29,10/2/23 11:13:10,anonymous,,,10/2/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,used a computer
+471,10/2/23 11:13:32,10/2/23 11:20:49,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needs help with WIFI
+472,10/2/23 11:20:51,10/2/23 11:33:13,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needs help logging in to WI-FI.
+473,10/2/23 11:06:54,10/2/23 11:34:59,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Other;,WIFI;,"The student was guided on how to access the wifi
+"
+474,10/2/23 11:35:02,10/2/23 11:35:55,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Other;,WIFI;,The student was guided on how to access the wifi
+475,10/2/23 11:33:15,10/2/23 11:41:29,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Staff,Printing;,Other;,Using printer.
+476,10/2/23 11:41:41,10/2/23 11:42:43,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needed help logging in to WI-FI on macbook.
+477,10/2/23 11:41:06,10/2/23 11:44:47,anonymous,,,10/2/2023,Yessica Balderrama,PY - Lab,Guest,Tech Help;,WIFI;,"New student, needed help with WiFi. Sadly applied to campus after July 21."
+478,10/2/23 11:41:31,10/2/23 11:45:21,anonymous,,,10/2/2023,Yessica Balderrama,PY - Lab,Student,Tech Help;,WIFI;,Student worker. Was able to log into wifi.
+479,10/2/23 11:51:21,10/2/23 11:52:02,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student is using the lab for school work
+480,10/2/23 11:52:11,10/2/23 11:52:51,anonymous,,,10/2/2023,Yessica B,PY - Lab,Student,Study Table;,Other;,Rowan study time.
+481,10/2/23 11:38:19,10/2/23 11:53:04,anonymous,,,10/2/2023,Kayla,PY - Lab,Student,Tech Help;,Canvas;,Canvas help
+482,10/2/23 11:42:45,10/2/23 11:54:03,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Working on table.
+483,10/2/23 11:54:05,10/2/23 12:02:20,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Asking to get a job here.
+484,10/2/23 12:02:23,10/2/23 12:05:04,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Came to ask for job application.
+485,10/2/23 12:05:06,10/2/23 12:06:10,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Computer Usage;,Other;,Using computer.
+486,10/2/23 12:06:13,10/2/23 12:21:56,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Study Table;,Other;,Working on school.
+487,10/2/23 12:21:58,10/2/23 12:23:17,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Tech Help;,Other;,Working on Classes.
+488,10/2/23 12:23:19,10/2/23 12:25:05,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Working on classes with friends.
+489,10/2/23 12:25:06,10/2/23 12:27:08,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Staff,Study Table;,Other;,Working on school work.
+490,10/2/23 12:30:38,10/2/23 12:31:48,anonymous,,,10/2/2023,Nayeli Gabriel Perez,FS- Lab,Student,Tech Help;,WIFI;,was able to help student with WIFi issue 
+491,10/2/23 12:10:28,10/2/23 12:32:06,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Guest,Other;,Other;,NA
+492,10/2/23 12:32:08,10/2/23 12:32:26,anonymous,,,10/2/2023,Priscilla Hug,PY - Lab,Guest,Other;,Other;,NA
+493,10/2/23 12:31:58,10/2/23 12:33:39,anonymous,,,10/2/2023,Nayeli Gabriel Perez,FS- Lab,Student,Tech Help;,WIFI;,WIFI issue was resolved 
+494,10/2/23 11:59:22,10/2/23 12:33:47,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Tech Help;,Student Email;,The student was guided on how to access their student email and update their password.
+495,10/2/23 12:33:43,10/2/23 12:34:55,anonymous,,,10/2/2023,101020915,FS- Lab,Student,Tech Help;,WIFI;,Issue with wifi was not resolved. seems like student has to contact Help desk 
+496,10/2/23 12:34:56,10/2/23 12:35:51,anonymous,,,10/2/2023,Nayeli Gabriel Perez,FS- Lab,Student,Tech Help;,WIFI;,Highschool student try to log into wifi issue was not resolve 
+497,10/2/23 12:35:53,10/2/23 12:36:46,anonymous,,,10/2/2023,nayeli Gabriel Perez,FS- Lab,Student,Tech Help;,WIFI;,was not able to help student with her wifi issue 
+498,10/2/23 12:36:48,10/2/23 12:39:19,anonymous,,,10/2/2023,Nayeli Gabriel Perez,FS- Lab,Student,Tech Help;,WIFI;,Problem accessing wifi with high school laptop 
+499,10/2/23 12:42:15,10/2/23 12:43:13,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,Computer slay
+500,10/2/23 12:27:09,10/2/23 12:46:23,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Using printer.
+501,10/2/23 12:45:08,10/2/23 12:47:06,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Here to help student.
+502,10/2/23 12:52:20,10/2/23 12:53:12,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Recording booth
+503,10/2/23 12:46:26,10/2/23 12:58:19,anonymous,,,10/2/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,School work.
+504,10/2/23 12:58:50,10/2/23 13:01:58,anonymous,,,10/2/2023,Teresia,FS- Lab,Student,Computer Usage;Study Table;,Other;,No issue just using the computers.
+505,10/2/23 13:10:38,10/2/23 13:11:14,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Guest,Other;,Other;,Asked about canvas passwords
+506,10/2/23 13:09:27,10/2/23 13:16:16,anonymous,,,10/2/2023,Jonas Nelson ,PY - Lab,Student,Printing;,WIFI;,.
+507,10/2/23 12:58:59,10/2/23 13:19:50,anonymous,,,10/2/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,"had issues logging into wifi on chromebook, tried the newest info on tech alert but still wouldn't connect, student had to leave so i referred her to the help desk"
+508,10/2/23 13:19:53,10/2/23 13:36:24,anonymous,,,10/2/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,Other;,"student had resolution error trying to load Mindtap on canvas, helped fixed her issue "
+509,10/2/23 13:36:27,10/2/23 13:37:22,anonymous,,,10/2/2023,Caitlin Heavner,PY - Lab,Student,Computer Usage;,Other;,computer usage
+510,10/2/23 13:37:25,10/2/23 13:37:52,anonymous,,,10/2/2023,Caitlin Heavner,PY - Lab,Student,Other;,Other;,helped
+511,10/2/23 13:34:07,10/2/23 13:38:20,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;Computer Usage;,WIFI;,Android WIFI Issues
+512,10/2/23 13:37:55,10/2/23 13:49:20,anonymous,,,10/2/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,needed help with wifi login
+513,10/2/23 13:49:23,10/2/23 13:54:37,anonymous,,,10/2/2023,Caitlin,PY - Lab,Student,Tech Help;,WIFI;,helped get onto wifi
+514,10/2/23 13:57:37,10/2/23 13:58:48,anonymous,,,10/2/2023,Kayla,PY - Lab,Guest,Tech Help;,WIFI;,Could not log on to wifi.
+515,10/2/23 13:38:22,10/2/23 13:58:59,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Tech Help;,Student Email;,.
+516,10/2/23 13:59:08,10/2/23 13:59:48,anonymous,,,10/2/2023,Nick,FS- Lab,Student,Tech Help;,Student Email;Office 365;,The student wanted to access Office 365 and student email
+517,10/2/23 13:57:18,10/2/23 14:00:59,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Computer use
+518,10/2/23 13:57:42,10/2/23 14:06:45,anonymous,,,10/2/2023,Caitlin,PY - Lab,Student,Tech Help;,WIFI;,"came in for wifi help, couldn't connect but she had to leave to class, so i referred her to IT"
+519,10/2/23 14:01:16,10/2/23 14:08:59,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Used recording booth
+520,10/2/23 14:09:02,10/2/23 14:10:07,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Just vibing
+521,10/2/23 14:11:02,10/2/23 14:11:36,anonymous,,,10/2/2023,Nick,FS- Lab,Guest,Other;,Other;,Asked about room O302
+522,10/2/23 14:18:20,10/2/23 14:21:06,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,Legacy ID
+523,10/2/23 14:36:18,10/2/23 14:36:54,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Other;,.
+524,10/2/23 14:06:47,10/2/23 14:48:22,anonymous,,,10/2/2023,Caitlin,PY - Lab,Student,Computer Usage;,Other;,computer usage
+525,10/2/23 15:00:07,10/2/23 15:00:53,anonymous,,,10/2/2023,Florian Williams ,FS - Design Studio,Student,Tech Help;,Student Email;,Asked Brianna
+526,10/2/23 15:02:55,10/2/23 15:03:50,anonymous,,,10/2/2023,Florian Williams,FS - Design Studio,Student,Other;,Other;,Here with friend
+527,10/2/23 15:04:16,10/2/23 15:07:56,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,.
+528,10/2/23 15:07:58,10/2/23 15:08:38,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,.
+529,10/2/23 15:13:39,10/2/23 15:14:22,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,","
+530,10/2/23 15:16:02,10/2/23 15:16:40,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Other;,WIFI;,.
+531,10/2/23 15:16:42,10/2/23 15:21:21,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,New student
+532,10/2/23 15:21:23,10/2/23 15:21:58,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,new student
+533,10/2/23 15:22:00,10/2/23 15:44:37,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,new student
+534,10/2/23 15:45:22,10/2/23 15:48:03,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,..
+535,10/2/23 15:55:12,10/2/23 15:55:37,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,0
+536,10/2/23 16:37:06,10/2/23 16:38:00,anonymous,,,10/2/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,.
+537,10/2/23 14:48:24,10/2/23 16:44:36,anonymous,,,10/2/2023,Caitlin,PY - Lab,Student,Tech Help;,WIFI;,helped get on wifi
+538,10/3/23 7:33:41,10/3/23 7:34:15,anonymous,,,10/3/2023,Breanna,Email,Student,Other;,Other;,inquiring about lost calculator in lab
+539,10/3/23 9:10:53,10/3/23 9:12:19,anonymous,,,10/3/2023,Nga Tran ,FS- Lab,Student,Computer Usage;Tech Help;,Office 365;Student Email;,"They cannot log in their email, and they need help to check the password. "
+540,10/3/23 9:13:32,10/3/23 9:15:14,anonymous,,,10/3/2023,Nga Tran ,FS- Lab,Staff,Tech Help;,Other;,They come Computer lab to borrow the computer. 
+541,10/3/23 9:16:04,10/3/23 9:17:07,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,students needed help with the wifi 
+542,10/3/23 9:11:50,10/3/23 9:18:26,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Computer Usage;,Other;,N/A
+543,10/3/23 9:18:28,10/3/23 9:19:40,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Needed help with Wi-Fi. Issue resolved
+544,10/3/23 9:19:41,10/3/23 9:21:00,anonymous,,,10/3/2023,Jacob,PY - Lab,Student,Computer Usage;Tech Help;,WIFI;,Could not connect to Wi-Fi. Issue resolved.
+545,10/3/23 9:21:03,10/3/23 9:22:38,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Did not know how to connect. Issue resolved.
+546,10/3/23 9:22:39,10/3/23 9:23:29,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,"Did not know how to connect, issue resolved."
+547,10/3/23 9:21:46,10/3/23 9:24:09,anonymous,,,10/3/2023,Nga Tran ,FS- Lab,Student,Other;,WIFI;,Because they registered after July 1st so they're able to connect with Wifi 
+548,10/3/23 9:23:31,10/3/23 9:24:11,anonymous,,,10/3/2023,Jacob,PY - Lab,Student,Computer Usage;Tech Help;,WIFI;,Helped connect.
+549,10/2/23 13:02:00,10/3/23 9:37:32,anonymous,,,10/3/2023,Teresia,FS- Lab,Guest,Other;,Other;,The student was guided in accessing the lab
+550,10/3/23 9:48:47,10/3/23 9:49:34,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Other;,WIFI;,The student was guided on how to access the wifi
+551,10/3/23 9:24:14,10/3/23 10:00:00,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;Student Email;,Logging into WiFi and student email
+552,10/3/23 9:24:25,10/3/23 10:00:10,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;Student Email;,Logging into WiFi and student email
+553,10/3/23 10:00:15,10/3/23 10:07:45,anonymous,,,10/3/2023,Jacob,PY - Lab,Student,Computer Usage;Tech Help;,WIFI;Canvas;,"Needed help logging in, took down to help center"
+554,10/3/23 9:49:37,10/3/23 10:23:00,anonymous,,,10/3/2023,Teresia,FS- Lab,Staff,Computer Usage;,Other;,Computer usage.
+555,10/3/23 10:23:02,10/3/23 10:23:44,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,Computer usage.
+556,10/3/23 10:07:53,10/3/23 10:31:46,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,"Did not know which wifi to join, problem resolved."
+557,10/3/23 9:17:11,10/3/23 10:34:35,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,student  needed to use computer 
+558,10/3/23 9:26:16,10/3/23 10:39:52,anonymous,,,10/3/2023,Yessica B,PY - Lab,Student,Tech Help;,WIFI;,Student was having issues logging into WIFI. They applied after July '23. Tried to reset their password via email as told by Help Desk. Still didn't work. Ended up taking her to IT.
+559,10/3/23 10:23:48,10/3/23 10:41:16,anonymous,,,10/3/2023,Teresia,FS- Lab,Staff,Other;,Other;,The teacher was guided on how to book a room for class.
+560,10/3/23 10:41:20,10/3/23 10:47:03,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Other;Printing;Tech Help;,WIFI;,The student was guided on accessing the WiFi and directed to the library for printing.
+561,10/3/23 10:31:48,10/3/23 11:02:31,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Computer Usage;,Other;,Computer use
+562,10/3/23 11:02:32,10/3/23 11:12:47,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Computer Usage;Tech Help;Printing;,WIFI;,"Needed help connecting phone and computer to WiFi, as well as printing "
+563,10/3/23 10:36:12,10/3/23 11:13:02,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Study Table;,Other;,study table
+564,10/3/23 11:14:32,10/3/23 11:15:08,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,printing 
+565,10/3/23 11:12:49,10/3/23 11:18:08,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Computer Usage;Tech Help;,Other;,Printing
+566,10/3/23 11:18:10,10/3/23 11:20:25,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Needed help with printing
+567,10/3/23 11:15:11,10/3/23 11:36:07,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Other;,Other;,student needed to use a computer 
+568,10/3/23 11:35:42,10/3/23 11:36:32,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Connected with IT for temporary WiFi 
+569,10/3/23 10:06:14,10/3/23 11:38:28,anonymous,,,10/3/2023,Priscilla Hug,PY - STAT Table,Student,Tech Help;,Other;WIFI;Student Email;,NA
+570,10/3/23 11:39:10,10/3/23 11:46:06,anonymous,,,10/3/2023,Kayla,PY - Lab,Staff,Study Table;,Other;,Use of study table
+571,10/3/23 11:46:10,10/3/23 11:51:11,anonymous,,,10/3/2023,Kayla,PY - Lab,Staff,Computer Usage;Tech Help;,Canvas;,"Trouble logging in to employee account, referred to supervisor/admin"
+572,10/3/23 11:51:12,10/3/23 11:56:24,anonymous,,,10/3/2023,Jacob,PY - Lab,Student,Computer Usage;Tech Help;,WIFI;,"Help with WiFi login, Makerspace request."
+573,10/3/23 11:36:24,10/3/23 12:04:50,anonymous,,,10/3/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed help connecting to the wifi 
+574,10/3/23 12:04:53,10/3/23 12:05:31,anonymous,,,10/10/2023,jacob,PY - Lab,Student,Printing;,Other;,printing
+575,10/3/23 11:56:26,10/3/23 12:08:21,anonymous,,,10/3/2023,Kayla,PY - Lab,Guest,Computer Usage;,Other;,Computer use
+576,10/3/23 12:08:23,10/3/23 12:19:21,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Help logging into WiFi 
+577,10/3/23 12:19:22,10/3/23 12:19:47,anonymous,,,10/3/2023,Kayla,PY - Lab,Guest,Other;,Other;,Use of paper 
+578,10/3/23 10:50:23,10/3/23 12:19:58,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,Computer usage. The student.
+579,10/3/23 12:20:00,10/3/23 12:21:34,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Other;Printing;,Other;,The student was guided on printing her work. She was advised to send the file from her personal email to the school email so they can print it. 
+580,10/3/23 12:21:53,10/3/23 12:22:39,anonymous,,,10/3/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,WiFi connection
+581,10/3/23 12:21:36,10/3/23 12:22:59,anonymous,,,10/3/2023,Teresia,FS- Lab,Staff,Other;Tech Help;,WIFI;Other;,The teacher needed information about Adobe for her class and wifi guidance for her students. 
+582,10/3/23 11:38:32,10/3/23 12:26:30,anonymous,,,10/3/2023,Priscilla Hug,PY - STAT Table,Guest,Tech Help;,WIFI;,NA
+583,10/3/23 12:28:36,10/3/23 12:29:25,anonymous,,,10/3/2023,Vahn Frantz,PY - Lab,Staff,Printing;,Other;,Printing for student
+584,10/3/23 12:35:46,10/3/23 12:36:31,anonymous,,,10/3/2023,Vahn Frantz,PY - Lab,Student,Printing;,Other;,Printing
+585,10/3/23 10:39:55,10/3/23 12:39:38,anonymous,,,10/3/2023,Vahn Frantz,Zoom Appointments,Student,Tech Help;,Student Email;Other;Office 365;,"Student had trouble logging into his google account (personal) via Canvas for an assignment. Helped set up their student email, which ended up working for the assignment. Wasn't able to fix the google problem. Recommended them call eLearning."
+586,10/3/23 12:19:49,10/3/23 12:39:40,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Help getting into WiFi 
+587,10/3/23 12:39:42,10/3/23 12:46:20,anonymous,,,10/3/2023,Kayla ,PY - Lab,Student,Computer Usage;,WIFI;,Help with wifi
+588,10/3/23 12:46:22,10/3/23 12:48:16,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Study Table;,WIFI;,Help with WiFi 
+589,10/3/23 12:39:40,10/3/23 12:49:27,anonymous,,,10/3/2023,Vahn Frantz,PY - Lab,Student,Tech Help;,Other;,Student needed help with starfish. Was part of the group that was not able to log into starfish the first week of school.
+590,10/3/23 12:48:19,10/3/23 12:52:39,anonymous,,,10/3/2023,Jacob,PY - Lab,Guest,Other;,Other;,Help with finding class
+591,10/3/23 12:52:40,10/3/23 12:54:38,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Computer Usage;,WIFI;,Help with wifi
+592,10/3/23 12:54:25,10/3/23 12:55:14,anonymous,,,10/3/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,Computer use
+593,10/3/23 12:55:17,10/3/23 12:56:07,anonymous,,,10/3/2023,Florian Williams,FS - Design Studio,Staff,Other;,Other;,Computer usage
+594,10/3/23 12:54:40,10/3/23 12:56:31,anonymous,,,10/3/2023,Kayla,PY - Lab,Student,Study Table;Tech Help;,WIFI;,Help with WiFi and computer use
+595,10/3/23 12:57:52,10/3/23 13:01:15,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Computer Usage;,Other;,computer usage
+596,10/3/23 13:01:17,10/3/23 13:01:44,anonymous,,,10/3/2023,Caitlin ,PY - Lab,Student,Computer Usage;,Other;,computer usage
+597,10/3/23 13:01:46,10/3/23 13:02:34,anonymous,,,10/3/2023,Caitlin Heavner,PY - Lab,Student,Computer Usage;,Other;,computer usage
+598,10/3/23 13:00:15,10/3/23 13:03:49,anonymous,,,10/3/2023,Terry,FS- Lab,Guest,Tech Help;,Other;,Help with adobe
+599,10/3/23 13:02:37,10/3/23 13:03:57,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Tech Help;,WIFI;,helped get on wifi
+600,10/3/23 13:10:24,10/3/23 13:11:06,anonymous,,,10/3/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,Computer collar
+601,10/3/23 13:11:08,10/3/23 13:11:42,anonymous,,,10/3/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,Computer collab
+602,10/3/23 13:04:01,10/3/23 13:12:17,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Other;,Other;,guest
+603,10/3/23 13:12:24,10/3/23 13:12:55,anonymous,,,10/10/2023,Caitlin,PY - Lab,Student,Other;,Other;,guest
+604,10/3/23 13:46:11,10/3/23 13:46:56,anonymous,,,10/3/2023,Jabez,FS- Lab,Student,Tech Help;,WIFI;,Student needed help connecting to WiFi on chromebook
+605,10/3/23 13:05:20,10/3/23 14:12:04,anonymous,,,10/3/2023,Chase,PY - AAH,Guest,Tech Help;,Other;,Needed help with self assessments.
+606,10/3/23 13:12:59,10/3/23 14:16:14,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Tech Help;,Other;,ctclink
+607,10/3/23 13:42:30,10/3/23 14:17:04,anonymous,,,10/3/2023,Gary Baker,FS - Design Studio,Student,Other;,Other;,Using the recording studio
+608,10/3/23 14:16:16,10/3/23 14:22:12,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Computer Usage;,Other;,computer usage
+609,10/3/23 14:17:18,10/3/23 14:51:09,anonymous,,,10/3/2023,Gary Baker,FS - Design Studio,Guest,Other;,Other;,Someone came in asking questions about screencast o matic on canvas
+610,10/3/23 14:51:12,10/3/23 14:57:52,anonymous,,,10/3/2023,Gary Baker,FS - Design Studio,Student,Computer Usage;,Other;,working on design stuff
+611,10/3/23 14:22:15,10/3/23 15:03:35,anonymous,,,10/3/2023,Caitlin,PY - Lab,Student,Tech Help;,Other;,needed help converting mac pages to word doc
+612,10/3/23 15:04:33,10/3/23 15:05:28,anonymous,,,10/3/2023,Nick,FS- Lab,Student,Tech Help;,WIFI;Student Email;Canvas;,"CWU student had issue with Login, Tyler had to work with IT to get it fixed"
+613,10/3/23 14:12:07,10/3/23 15:08:16,anonymous,,,10/3/2023,Chase,PY - AAH,Guest,Tech Help;,WIFI;,"Needed help with wifi, went through the steps in the recent email, and she called the help desk."
+614,10/3/23 15:08:07,10/3/23 15:08:50,anonymous,,,10/3/2023,Mia,FS- Lab,Student,Computer Usage;,Other;,N/A
+615,10/3/23 15:03:38,10/3/23 15:21:08,anonymous,,,10/3/2023,Caitlin ,PY - Lab,Student,Other;,WIFI;Office 365;,"needed help with wifi and logging into student email, password needed reset"
+616,10/3/23 13:04:32,10/3/23 15:28:48,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,"Chromebook cannot connect to Wifi, but phone can. The laptop simply stops connecting when you tap connect. Is coming back tomorrow."
+617,10/3/23 15:29:05,10/3/23 15:30:36,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Student,Tech Help;,WIFI;,"School Chromebook having trouble with Wifi, problem fixed!"
+618,10/3/23 14:57:58,10/3/23 15:40:03,anonymous,,,10/3/2023,Gary Baker,FS - Design Studio,Student,Tech Help;,Student Email;,couldn't access their student email
+619,10/3/23 15:40:06,10/3/23 15:40:48,anonymous,,,10/3/2023,Gary Baker,FS - Design Studio,Student,Tech Help;,Canvas;,needed help doing a recording for a power point
+620,10/3/23 15:30:39,10/3/23 17:41:24,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Guest,Study Table;,Other;,Using study table before class.
+621,10/3/23 17:41:28,10/3/23 17:42:16,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Staff,Other;,Other;,Wondered if our lab key opens CTC276. Nope.
+622,10/3/23 17:42:18,10/3/23 17:47:04,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Student,Computer Usage;,Other;,Using computer.
+623,10/3/23 17:47:06,10/3/23 17:58:37,anonymous,,,10/3/2023,Emily Barrett,PY - Lab,Staff,Other;,Other;,Teacher asking to use the lab for a class.
+624,10/3/23 7:34:18,10/4/23 7:34:36,anonymous,,,10/3/2023,Breanna,Email,Student,Tech Help;,WIFI;,legacy ID
+625,10/4/23 7:34:38,10/4/23 7:35:16,anonymous,,,10/4/2023,Breanna,Email,Student,Other;,Other;,inquiring about chromebook
+626,10/4/23 9:22:47,10/4/23 9:23:26,anonymous,,,10/4/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed help getting on the wifi 
+627,10/4/23 9:23:28,10/4/23 9:23:54,anonymous,,,10/4/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,computer usage 
+628,10/4/23 9:23:58,10/4/23 9:24:25,anonymous,,,10/4/2023,jacob,PY - Lab,Student,Other;,Other;,needed help finding a classroom
+629,10/4/23 9:35:42,10/4/23 9:36:07,anonymous,,,10/4/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,"needed help getting into the wifi 
+"
+630,10/4/23 9:36:09,10/4/23 9:36:30,anonymous,,,10/4/2023,jacob,PY - Lab,Student,Other;,Student Email;,"needed help getting into student email
+"
+631,10/4/23 9:45:47,10/4/23 10:07:41,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Other;,Help with WI-FI.
+632,10/4/23 10:07:43,10/4/23 10:08:57,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Using Printer.
+633,10/4/23 10:08:59,10/4/23 10:10:17,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Needs to use printer.
+634,10/4/23 10:13:43,10/4/23 10:18:40,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Staff,Printing;,Other;,Using printer.
+635,10/4/23 10:18:42,10/4/23 10:27:22,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,School work.
+636,10/3/23 12:29:10,10/4/23 10:28:10,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,computer usage.
+637,10/4/23 10:27:24,10/4/23 10:57:33,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Using Printer.
+638,10/4/23 11:16:17,10/4/23 11:17:52,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,WiFi
+639,10/4/23 11:17:55,10/4/23 11:19:10,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,New Student 
+640,10/4/23 11:19:14,10/4/23 11:19:54,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Computer Usage;,Other;,Computer Usage
+641,10/4/23 11:20:11,10/4/23 11:21:07,anonymous,,,10/4/2023,Vahn Frantz,PY - Lab,Student,Other;,WIFI;,New Student
+642,10/4/23 11:21:15,10/4/23 11:24:43,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,WiFi log in
+643,10/4/23 11:24:44,10/4/23 11:25:44,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Printing;,Other;,Printing
+644,10/4/23 10:57:35,10/4/23 11:26:20,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Working on school on one of the tables.
+645,10/4/23 11:26:22,10/4/23 11:28:26,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Office 365;,Needed help with office 365.
+646,10/4/23 11:25:51,10/4/23 11:28:26,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,WIFI
+647,10/4/23 11:28:28,10/4/23 11:29:34,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,WiFi
+648,10/4/23 11:29:39,10/4/23 11:31:00,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,Reconnect to WiFi
+649,10/4/23 11:31:12,10/4/23 11:31:41,anonymous,,,10/4/2023,Britton B,PY - Lab,Student,Other;,WIFI;,New Student
+650,10/4/23 10:28:19,10/4/23 11:40:13,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Tech Help;,WIFI;,The student needed help accessing the WiFi using their high school Chromebook. The student was advised to contact their school IT for further help.
+651,10/4/23 11:28:28,10/4/23 11:46:01,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,At work desk.
+652,10/4/23 11:41:21,10/4/23 11:54:38,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student borrowed headphones as he used the lab computers. 
+653,10/4/23 11:46:02,10/4/23 11:54:46,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Canvas;,Needs help canvas.
+654,10/4/23 11:54:41,10/4/23 12:00:44,anonymous,,,10/3/2023,Teresia,FS- Lab,Student,Computer Usage;,WIFI;,The student was guided using the wifi and was able to access it.
+655,10/4/23 12:09:24,10/4/23 12:11:26,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,"Had trouble connecting to wifi, verified their username and turns out they were putting the password in wrong."
+656,10/4/23 12:04:23,10/4/23 12:11:36,anonymous,,,10/4/2023,Priscilla Hug,PY - Library,Guest,Tech Help;,WIFI;,NA
+657,10/4/23 12:11:41,10/4/23 12:12:15,anonymous,,,10/4/2023,Chase,PY - Lab,Student,Other;,Other;,Borrowed a USB-C charger from Tyler.
+658,10/4/23 12:12:21,10/4/23 12:12:53,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Tech Help;,WIFI;,"Student needed help with wifi, and she was putting password in wrong."
+659,10/4/23 12:03:10,10/4/23 12:18:19,anonymous,,,10/4/2023,Vahn Frantz,PY - Lab,Student,Other;,Other;,"New Student, needed help turning in an assignment on Canvas. Admin Building "
+660,10/4/23 12:12:55,10/4/23 12:26:50,anonymous,,,10/4/2023,Chase,PY - Lab,Student,Other;,Other;,Chess champion 
+661,10/4/23 12:11:39,10/4/23 12:27:16,anonymous,,,10/4/2023,Priscilla Hug,PY - Library,Guest,Other;,Other;,NA
+662,10/4/23 12:27:18,10/4/23 13:07:10,anonymous,,,10/4/2023,Priscilla Hug,PY - Library,Guest,Other;,Other;,NA
+663,10/4/23 10:08:14,10/4/23 13:07:57,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Guest,Tech Help;,Student Email;Canvas;,ESL
+664,10/4/23 13:08:03,10/4/23 13:08:55,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Guest,Tech Help;Computer Usage;,Student Email;Canvas;,ESL 2/11
+665,10/4/23 12:26:51,10/4/23 13:19:15,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Tech Help;,Canvas;,"Needed help with canvas, and I helped activate their account."
+666,10/4/23 13:19:21,10/4/23 13:19:59,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Tech Help;,Canvas;,"Needed help getting into canvas, I activated her account."
+667,10/4/23 13:20:02,10/4/23 13:20:27,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Study Table;,Other;,Using study table to charge laptop
+668,10/4/23 13:09:04,10/4/23 13:22:37,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,grace bean 
+669,10/4/23 13:22:40,10/4/23 13:24:24,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Student,Computer Usage;,Other;,Sadie bean
+670,10/4/23 13:20:31,10/4/23 13:24:32,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Study Table;,Other;,Using the study table
+671,10/4/23 11:54:48,10/4/23 13:24:59,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Canvas work.
+672,10/4/23 13:24:34,10/4/23 13:26:09,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Printing;,Other;,Printing
+673,10/4/23 13:27:48,10/4/23 13:28:57,anonymous,,,10/4/2023,Chase,PY - Lab,Student,Tech Help;,Canvas;,Needed canvas help
+674,10/4/23 13:28:59,10/4/23 13:29:54,anonymous,,,10/4/2023,Chase,PY - Lab,Student,Tech Help;,Canvas;,Needed canvas help
+675,10/4/23 13:29:55,10/4/23 13:38:26,anonymous,,,10/4/2023,Chase,PY - Lab,Guest,Computer Usage;,Other;,Using the computer
+676,10/4/23 12:18:22,10/4/23 13:38:31,anonymous,,,10/4/2023,Vahn Frantz,PY - Lab,Guest,Other;,Other;,ESL Student needed help with getting SID figured out 
+677,10/4/23 13:38:34,10/4/23 13:39:17,anonymous,,,10/4/2023,Vahn Frantz,PY - Lab,Guest,Other;,Other;,ESL Student needed help with getting SID
+678,10/4/23 13:07:12,10/4/23 13:40:38,anonymous,,,10/4/2023,Priscilla Hug,PY - Library,Guest,Printing;,Other;,NA
+679,10/4/23 13:25:01,10/4/23 13:41:47,anonymous,,,10/4/2023,Britton Breivik ,PY - Lab,Student,Other;,Other;,"Drew Thim, he used a table."
+680,10/4/23 13:39:12,10/4/23 13:45:02,anonymous,,,10/4/2023,Nayeli ,FS- Lab,Student,Tech Help;,WIFI;,Student came in for help with setting up WIFI on his laptop. 
+681,10/4/23 13:56:44,10/4/23 13:57:21,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Student Email;Canvas;Office 365;,"ESL
+"
+682,10/4/23 13:57:22,10/4/23 13:58:02,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Canvas;Student Email;Office 365;,ESL
+683,10/4/23 13:58:04,10/4/23 13:58:27,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Office 365;Student Email;Canvas;,ESL
+684,10/4/23 13:58:30,10/4/23 13:59:21,anonymous,,,10/4/2023,2012738605,PY - Lab,Student,Tech Help;,Canvas;Office 365;Student Email;,ESL
+685,10/4/23 13:59:25,10/4/23 13:59:42,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Student Email;Office 365;Canvas;,ESL
+686,10/4/23 13:54:37,10/4/23 14:02:47,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Guest,Computer Usage;Study Table;,Other;,blorp blorp
+687,10/4/23 14:11:39,10/4/23 14:32:46,anonymous,,,10/4/2023,Britton,PY - Lab,Student,Tech Help;,WIFI;,Needed WI-FI.
+688,10/4/23 14:36:02,10/4/23 14:37:57,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Guest,Other;,Other;,Check out the recording booth
+689,10/4/23 14:32:47,10/4/23 14:52:52,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Staff,Other;,Other;,Working on school work.
+690,10/4/23 14:54:18,10/4/23 14:54:26,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,computer dude
+691,10/4/23 14:54:28,10/4/23 14:55:05,anonymous,,,10/4/2023,Florian Williams,FS - Design Studio,Staff,Computer Usage;,Other;,computer fren
+692,10/4/23 14:55:10,10/4/23 14:55:45,anonymous,,,10/4/2023,Breanna,Email,Student,Tech Help;,WIFI;,can't connect to wifi
+693,10/4/23 14:09:00,10/4/23 14:56:21,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,.
+694,10/4/23 14:56:22,10/4/23 14:56:45,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Other;,.
+695,10/4/23 14:56:46,10/4/23 14:57:12,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,.
+696,10/4/23 14:57:14,10/4/23 14:57:36,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Other;,.
+697,10/4/23 14:52:54,10/4/23 14:57:53,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Person came in to work at a desk.
+698,10/4/23 14:57:39,10/4/23 14:58:15,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,.
+699,10/4/23 15:06:57,10/4/23 15:07:27,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,"study
+"
+700,10/4/23 15:07:09,10/4/23 15:08:12,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Canvas;,Help with canvas.
+701,10/4/23 14:57:54,10/4/23 15:09:03,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,School work.
+702,10/4/23 15:09:05,10/4/23 15:11:48,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Working with other student.
+703,10/4/23 15:11:50,10/4/23 15:16:50,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Needed to use computer.
+704,10/4/23 14:04:56,10/4/23 15:44:10,anonymous,,,10/4/2023,Caitlin,PY - STAT Table,Student,Tech Help;,WIFI;,helped student connect to wifi
+705,10/4/23 15:16:52,10/4/23 16:03:43,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Looking around lab.
+706,10/4/23 16:03:45,10/4/23 16:04:22,anonymous,,,10/4/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Looking around lab with friend.
+707,10/4/23 15:55:57,10/4/23 16:09:34,anonymous,,,10/4/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,.
+708,10/4/23 15:44:15,10/4/23 16:34:03,anonymous,,,10/4/2023,Caitlin,PY - STAT Table,Guest,Other;,Other;,helped 
+709,10/5/23 7:50:45,10/5/23 7:51:11,anonymous,,,10/5/2023,Breanna,Email,Student,Tech Help;Other;,Other;,chromebook inquiry
+710,10/5/23 7:51:14,10/5/23 7:51:39,anonymous,,,10/5/2023,Breanna,Email,Student,Other;,Other;,chromebook inquiry
+711,10/5/23 7:51:41,10/5/23 7:52:12,anonymous,,,10/4/2023,Breanna,Zoom Appointments,Student,Tech Help;,Other;,Issue with MindTap
+712,10/5/23 8:46:01,10/5/23 8:46:28,anonymous,,,10/5/2023,Breanna,Email,Student,Tech Help;,WIFI;,needed wifi login info
+713,10/5/23 9:10:13,10/5/23 9:10:42,anonymous,,,10/5/2023,Breanna,Email,Student,Tech Help;,WIFI;,needed wifi login info
+714,10/5/23 9:11:14,10/5/23 9:22:09,anonymous,,,10/5/2023,Yessica Balderrama,PY - Lab,Student,Tech Help;,Office 365;,Needed help getting into office 365
+715,10/5/23 9:12:05,10/5/23 9:35:39,anonymous,,,10/5/2023,jacob ,PY - Lab,Student,Other;,Other;,Student needed help with wifi 
+716,10/5/23 9:45:18,10/5/23 9:46:43,anonymous,,,10/5/2023,jacob ,PY - Lab,Student,Tech Help;,Office 365;,student needed help logging into office 365
+717,10/5/23 9:46:45,10/5/23 9:47:47,anonymous,,,10/5/2023,jacob ,PY - Lab,Staff,Other;,Other;,needed help logging into panopto but the servers for it seem to be down. 
+718,10/5/23 9:49:13,10/5/23 10:12:30,anonymous,,,10/5/2023,jacob,PY - Lab,Student,Printing;,Other;,student needed to print 
+719,10/5/23 10:12:31,10/5/23 10:13:01,anonymous,,,10/5/2023,jacob,PY - Lab,Student,Printing;,Other;,student needed to print 
+720,10/5/23 10:13:53,10/5/23 10:15:16,anonymous,,,10/5/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed help getting on the wifi 
+721,10/5/23 10:20:23,10/5/23 10:21:07,anonymous,,,10/5/2023,Chase,PY - Lab,Guest,Other;,Other;,Asking where a class is
+722,10/5/23 10:21:09,10/5/23 10:21:24,anonymous,,,10/5/2023,Chase,PY - Lab,Guest,Other;,Other;,"Asked where a class is
+"
+723,10/5/23 10:21:26,10/5/23 10:21:50,anonymous,,,10/5/2023,Chase,PY - Lab,Guest,Other;,Other;,"Asked where a class is
+"
+724,10/5/23 10:21:52,10/5/23 10:22:07,anonymous,,,10/5/2023,Chase,PY - Lab,Guest,Other;,Other;,Asked where a class is
+725,10/5/23 10:15:18,10/5/23 10:27:19,anonymous,,,10/5/2023,jacob,PY - Lab,Student,Other;,Other;,student needed help getting on the wifi 
+726,10/5/23 10:22:09,10/5/23 10:31:51,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,"Student had trouble logging into wifi, restarted computer and connected"
+727,10/5/23 10:27:21,10/5/23 10:32:25,anonymous,,,10/5/2023,jacob,PY - Lab,Student,Other;,WIFI;,student needed help getting on the wifi 
+728,10/5/23 9:15:04,10/5/23 10:42:12,anonymous,,,10/5/2023,Kayla,PY - Library,Student,Tech Help;,WIFI;,Help logging in onto computer and phone WiFi 
+729,10/5/23 10:31:53,10/5/23 11:49:01,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,Needed help logging onto wifi
+730,10/5/23 11:49:03,10/5/23 11:54:31,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,"Wifi help
+"
+731,10/5/23 11:54:32,10/5/23 11:55:01,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Printing;,Other;,Printing
+732,10/5/23 11:55:02,10/5/23 11:56:01,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,"Wifi help
+"
+733,10/5/23 11:56:02,10/5/23 11:56:39,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,"Computer usage
+"
+734,10/5/23 11:56:41,10/5/23 11:59:04,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,Computer
+735,10/5/23 11:59:06,10/5/23 11:59:51,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Printing;,Other;,printing
+736,10/5/23 12:00:02,10/5/23 12:00:28,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,computer
+737,10/5/23 12:16:29,10/5/23 12:17:19,anonymous,,,10/5/2023,Breanna,Email,Student,Tech Help;,WIFI;,using wrong wifi username
+738,10/5/23 12:17:21,10/5/23 12:17:59,anonymous,,,10/5/2023,Breanna,Email,Student,Tech Help;,Student Email;,email password reset
+739,10/5/23 12:21:26,10/5/23 12:22:02,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,Other;,Chromebook wifi
+740,10/5/23 12:00:29,10/5/23 12:24:23,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Computer Usage;,Other;,computer usage
+741,10/5/23 10:32:36,10/5/23 12:35:22,anonymous,,,10/5/2023,Jacob,PY - Lab,Student,Tech Help;,WIFI;,"student needed help getting on the wifi 
+"
+742,10/5/23 12:24:25,10/5/23 12:41:08,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,wifi help
+743,10/5/23 12:42:56,10/5/23 12:43:44,anonymous,,,10/5/2023,Jabez,FS- Lab,Student,Tech Help;,Student Email;,Student needed help resetting their student email password. 
+744,10/5/23 12:41:10,10/5/23 12:45:39,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Other;,Other;,Asking for help with getting textbooks
+745,10/5/23 12:22:05,10/5/23 12:58:55,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,WIFI;Other;,Student had an issue accessing wifi
+746,10/5/23 12:58:58,10/5/23 12:59:43,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,Other;,Chromebook wifi
+747,10/5/23 12:59:45,10/5/23 13:00:27,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,Other;WIFI;,Chromebook wifi
+748,10/5/23 12:46:03,10/5/23 13:06:30,anonymous,,,10/5/2023,Chase,PY - Lab,Student,Tech Help;,WIFI;,wifi help
+749,10/5/23 13:12:17,10/5/23 13:18:13,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Needs to use printer.
+750,10/5/23 13:23:36,10/5/23 13:30:42,anonymous,,,10/5/2023,Vahn Frantz,PY - Lab,Guest,Other;,Other;,Direction to ESL classroom
+751,10/5/23 13:39:04,10/5/23 13:49:20,anonymous,,,10/5/2023,Mia,FS- Lab,Student,Tech Help;Computer Usage;,Canvas;,N/A
+752,10/5/23 13:18:17,10/5/23 14:01:17,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Laptop needs to connect to WI-FI.
+753,10/5/23 12:43:47,10/5/23 14:04:59,anonymous,,,10/5/2023,Jabez ,FS- Lab,Student,Tech Help;,Canvas;,Student needed help submitting a file onto canvas
+754,10/5/23 14:01:18,10/5/23 14:05:35,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Student Email;,Needs help with student email.
+755,10/5/23 14:13:52,10/5/23 14:14:19,anonymous,,,10/5/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Logging into wifi help
+756,10/5/23 14:05:02,10/5/23 14:16:31,anonymous,,,10/5/2023,Jabez ,FS- Lab,Student,Study Table;,Other;,N/A
+757,10/5/23 14:16:33,10/5/23 14:17:26,anonymous,,,10/5/2023,Jabez,FS- Lab,Student,Study Table;,Other;,N/A
+758,10/5/23 14:05:37,10/5/23 14:20:42,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Office 365;,Needs help with Office 365.
+759,10/5/23 14:20:44,10/5/23 14:21:32,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Computer Usage;,Other;,Needs to use computer.
+760,10/5/23 14:23:07,10/5/23 14:25:10,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Guest,Printing;Tech Help;,Other;,"Visitor was a student, but I forgot to get a student ID :(. I think name was Natalia Dena? Could be wrong.
+Needed assistance using library printers."
+761,10/5/23 14:21:34,10/5/23 14:25:37,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Office 365;,Needed help with office 365.
+762,10/5/23 14:25:13,10/5/23 14:25:52,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Guest,Other;,Other;,Asked to borrow a chromebook.
+763,10/5/23 14:25:39,10/5/23 14:26:29,anonymous,,,10/5/2023,Britton ,PY - Lab,Student,Other;,Other;,Looking around.
+764,10/5/23 14:26:31,10/5/23 14:27:09,anonymous,,,10/5/2023,Britton breivik,PY - Lab,Student,Other;,Other;,Looking around lab with friend.
+765,10/5/23 14:19:51,10/5/23 14:41:02,anonymous,,,10/5/2023,Kayla,PY - Lab,Student,Tech Help;,Student Email;,"Could not access email, resolved after ressetting password, and reentering email. "
+766,10/5/23 14:27:11,10/5/23 14:43:14,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Work at a desk.
+767,10/5/23 14:43:16,10/5/23 14:43:50,anonymous,,,10/5/2023,Britton ,PY - Lab,Student,Other;,Other;,Working at a desk.
+768,10/5/23 14:41:04,10/5/23 15:05:03,anonymous,,,10/5/2023,Kayla,PY - Lab,Student,Tech Help;,WIFI;,Help with wifi login
+769,10/5/23 14:43:51,10/5/23 15:05:56,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needs help with WI-FI.
+770,10/5/23 14:42:38,10/5/23 15:06:49,anonymous,,,10/5/2023,Priscilla Hug,PY - Lab,Guest,Tech Help;,WIFI;,"Laptop wouldn't connect to PierceWIFI, displayed 'can't connect to this network' error every time."
+771,10/5/23 14:25:55,10/5/23 15:08:32,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Student,Tech Help;,WIFI;,Wifi connection issue with library chromebook. Fixed! :)
+772,10/5/23 15:05:58,10/5/23 15:10:55,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,WI-FI help.
+773,10/5/23 15:08:34,10/5/23 15:11:47,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Student,Tech Help;,WIFI;,Wifi connection issue with library chromebook; fixed!
+774,10/5/23 15:10:56,10/5/23 15:14:13,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Looking around Lab.
+775,10/5/23 15:11:50,10/5/23 15:37:31,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Student,Tech Help;,WIFI;,Phone connecting to Wifi.
+776,10/5/23 15:49:03,10/5/23 15:57:48,anonymous,,,10/5/2023,Kayla,PY - Lab,Student,Tech Help;,Student Email;,"Help signing into email. Name was wrong, sent to registration."
+777,10/5/23 13:19:03,10/5/23 16:06:42,anonymous,,,10/5/2023,Nick,FS- Lab,Guest,Computer Usage;,Other;,Guest came into use the computer
+778,10/5/23 16:13:22,10/5/23 16:14:19,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,Other;,Chromebook access
+779,10/5/23 16:14:21,10/5/23 16:14:57,anonymous,,,10/5/2023,Nick,FS- Lab,Student,Tech Help;,Office 365;,Login into Office365
+780,10/5/23 15:37:33,10/5/23 16:27:17,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Student,Other;,WIFI;,Wifi connection for library chromebook.
+781,10/5/23 15:14:15,10/5/23 16:33:09,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Asking for directions.
+782,10/5/23 16:27:19,10/5/23 16:38:03,anonymous,,,10/5/2023,Emily Barrett,PY - Library,Student,Tech Help;,WIFI;,Wifi connection to library chromebook.
+783,10/5/23 16:33:11,10/5/23 16:53:22,anonymous,,,10/5/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Office 365;,Needs help with office 365.
+784,10/6/23 8:48:32,10/6/23 8:49:06,anonymous,,,10/6/2023,Breanna,Email,Student,Tech Help;,WIFI;,wifi login not working
+785,10/6/23 8:49:08,10/6/23 8:49:46,anonymous,,,10/6/2023,Breanna,Email,Student,Tech Help;,Other;,Can't login to Chromebook
+786,10/6/23 9:34:01,10/6/23 9:35:52,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Study Table;,Other;,Student wanted a place to study before a test.
+787,10/6/23 9:36:48,10/6/23 9:57:25,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Tech Help;,Student Email;,Student needed assistance activating student email on a school Chromebook.
+788,10/6/23 10:05:40,10/6/23 10:06:41,anonymous,,,10/6/2023,Mia,FS- Lab,Student,Tech Help;,WIFI;,N/A
+789,10/6/23 9:58:11,10/6/23 10:10:21,anonymous,,,10/6/2023,Taylor Swensen,PY - Library,Student,Tech Help;,Other;,Needed assistance with logging in on school issued Chromebook. 
+790,10/6/23 10:16:04,10/6/23 10:17:28,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,chromebook wifi
+791,10/6/23 10:16:48,10/6/23 10:18:04,anonymous,,,10/4/2023,Yessica Balderrama,PY - Lab,Student,Computer Usage;Printing;,Other;,No issue/help. Just came in to print.
+792,10/6/23 10:18:06,10/6/23 10:18:55,anonymous,,,10/4/2023,Yessica Balderrama,PY - Lab,Guest,Other;,Other;,"Company with 203084429, didn't use computers."
+793,10/6/23 10:10:23,10/6/23 10:20:42,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Tech Help;,Other;,Student needed assistance logging into her school-issued Chromebook.
+794,10/6/23 10:15:03,10/6/23 10:29:55,anonymous,,,10/6/2023,Mia,FS- Lab,Student,Tech Help;,WIFI;,N/A
+795,10/6/23 10:20:47,10/6/23 11:21:33,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Tech Help;,Other;,Student checked out a locked Chromebook from the library. I directed them back to the library so they could unlock their device or get a new one if needed.
+796,10/6/23 11:21:35,10/6/23 11:43:52,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Other;,Other;,Student needed assistance finding financial aid.
+797,10/6/23 10:23:09,10/6/23 11:52:08,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;,Needs email password reset.
+798,10/6/23 11:52:10,10/6/23 11:52:31,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,WIFI;Other;,Chromebook login
+799,10/6/23 11:52:32,10/6/23 11:52:58,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Student Email;,chromebook login
+800,10/6/23 11:43:54,10/6/23 11:54:13,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Study Table;,Other;,Student needed a place to study.
+801,10/6/23 11:57:49,10/6/23 11:58:11,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,study
+802,10/6/23 11:57:59,10/6/23 11:58:31,anonymous,,,10/6/2023,Taylor Swensen,PY - Lab,Student,Study Table;,Other;,Student needed a place to study.
+803,10/6/23 12:54:32,10/6/23 12:55:02,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Student Email;,Needs identify verification options reset on student email. Sent to IT.
+804,10/6/23 12:08:13,10/6/23 13:06:20,anonymous,,,10/6/2023,Lola Cordero,FS- Lab,Student,Tech Help;,WIFI;Student Email;Office 365;,Student needed help with getting phone on the Wifi (because it was having trouble connecting) as well as getting into his student email on his phone and computer.
+805,10/6/23 10:18:58,10/6/23 13:25:46,anonymous,,,10/6/2023,YB,PY - Lab,Student,Printing;,Other;,printing
+806,10/6/23 13:06:24,10/6/23 13:39:08,anonymous,,,10/6/2023,Lola Cordero,FS- Lab,Student,Computer Usage;,Other;,Student just wanted to borrow a computer
+807,10/6/23 14:46:30,10/6/23 14:47:05,anonymous,,,10/6/2023,Jonas Nelson,PY - Lab,Student,Printing;Computer Usage;,Other;,.
+808,10/9/23 8:49:57,10/9/23 8:50:30,anonymous,,,10/9/2023,Breanna,Email,Student,Tech Help;,Student Email;,student email password reset
+809,10/9/23 8:50:35,10/9/23 8:51:23,anonymous,,,10/9/2023,Breanna,Email,Student,Tech Help;,Student Email;,student needed login info for chromebook
+810,10/9/23 8:47:44,10/9/23 9:16:41,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,Needed help logging into Wifi with legacy student ID.
+811,10/9/23 9:16:43,10/9/23 9:42:22,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,Office 365;Student Email;,"Needed a student email password reset, and to be shown how to access Office 365."
+812,10/9/23 9:42:25,10/9/23 9:49:05,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,NA
+813,10/9/23 9:49:53,10/9/23 9:50:21,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Printing;,Other;,NA
+814,10/9/23 9:49:07,10/9/23 9:51:15,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,NA
+815,10/9/23 9:54:31,10/9/23 9:54:56,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Study Table;,Other;,NA
+816,10/9/23 9:58:29,10/9/23 9:59:29,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Computer Usage;,Other;,using comp
+817,10/9/23 9:57:46,10/9/23 9:59:54,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Tech Help;,Other;,needs help logging into everything
+818,10/9/23 10:01:26,10/9/23 10:02:46,anonymous,,,10/9/2023,Teresia,FS- Lab,Student,Computer Usage;,Other;,The student borrowed headphones for use in the lab.
+819,10/9/23 9:56:44,10/9/23 10:04:49,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Study Table;,Other;,0
+820,10/9/23 9:56:41,10/9/23 10:05:06,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Study Table;,Other;,0
+821,10/9/23 9:56:30,10/9/23 10:05:32,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Other;,Other;,0
+822,10/9/23 10:02:49,10/9/23 10:05:34,anonymous,,,10/9/2023,Teresia,FS- Lab,Student,Tech Help;Other;,WIFI;,"The student had issues connecting to the WiFi.  Help was given but she still couldn't log in. An email was sent to IT, waiting for the response."
+823,10/9/23 10:07:50,10/9/23 10:43:10,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Asking questions about lab.
+824,10/9/23 10:43:13,10/9/23 10:51:15,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needs WI-FI.
+825,10/9/23 11:03:13,10/9/23 11:04:29,anonymous,,,10/9/2023,Nayeli Gabriel,FS- Lab,Student,Tech Help;Computer Usage;,Student Email;,student need it to reset email password 
+826,10/9/23 10:51:16,10/9/23 11:18:38,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Tech Help;,WIFI;,Needs help with Wi-Fi.
+827,10/9/23 11:18:40,10/9/23 11:19:19,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Guest,Other;,Other;,Helping a friend.
+828,10/9/23 11:19:20,10/9/23 11:26:06,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Printing;,Other;,Needs to use printer.
+829,10/9/23 11:26:08,10/9/23 11:28:05,anonymous,,,10/9/2023,Britton breivik,PY - Lab,Student,Tech Help;,Other;,Needs help with computer.
+830,10/9/23 10:35:53,10/9/23 11:29:50,anonymous,,,10/9/2023,yessica,PY - Lab,Student,Tech Help;,Other;,library laptop sign in
+831,10/9/23 10:01:40,10/9/23 11:32:07,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,student needed help with eifi 
+832,10/9/23 11:32:10,10/9/23 11:39:33,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Study Table;,Other;,"study table
+"
+833,10/9/23 11:39:38,10/9/23 11:40:26,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Study Table;,Other;,study table 
+834,10/9/23 11:28:07,10/9/23 11:40:34,anonymous,,,10/9/2023,Britton breivik,PY - Lab,Student,Other;,Other;,Using work study table.
+835,10/9/23 11:40:32,10/9/23 11:41:07,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,wifi help 
+836,10/9/23 11:40:36,10/9/23 11:51:53,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Other;,Other;,Working table.
+837,10/9/23 11:41:09,10/9/23 11:54:09,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Computer Usage;,Other;,"use computer
+"
+838,10/9/23 11:51:55,10/9/23 11:54:24,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Other;,Needs help with email.
+839,10/9/23 11:54:11,10/9/23 11:57:32,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Study Table;,Other;,study table
+840,10/9/23 11:57:35,10/9/23 12:00:34,anonymous,,,10/9/2023,jacob,PY - Lab,Guest,Other;,Other;,brought priscilla a home made pumpkin spice latte it was a little and needed more pizzazz
+841,10/9/23 12:00:38,10/9/23 12:01:27,anonymous,,,10/9/2023,priscilla ,PY - Lab,Student,Study Table;,Other;,jacob :p 
+842,10/9/23 12:02:06,10/9/23 12:03:21,anonymous,,,10/9/2023,Nayeli G.,FS- Lab,Student,Tech Help;,Office 365;Student Email;Canvas;,Student name was incorrect so we update it at the student registration. 
+843,10/9/23 12:04:20,10/9/23 12:09:22,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Tech Help;,WIFI;,Needed help logging into PierceWIFI with legacy ID.
+844,10/9/23 11:54:26,10/9/23 12:14:05,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Other;,Stairfish help.
+845,10/9/23 12:14:07,10/9/23 12:20:41,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Other;Tech Help;,Other;WIFI;,Needs Help with Wi-Fi.
+846,10/9/23 12:09:24,10/9/23 12:43:15,anonymous,,,10/9/2023,Priscilla Hug,PY - Lab,Student,Computer Usage;,Other;,NA
+847,10/9/23 12:20:43,10/9/23 12:47:15,anonymous,,,10/9/2023,Britton breivik,PY - Lab,Guest,Study Table;,Other;,Working on home work.
+848,10/9/23 12:47:17,10/9/23 12:53:44,anonymous,,,10/9/2023,Britton Breivik,PY - Lab,Student,Tech Help;,Student Email;,Needs help with email password.
+849,10/9/23 12:55:19,10/9/23 12:55:43,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Tech Help;,WIFI;,wifi
+850,10/9/23 13:00:00,10/9/23 13:01:03,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Other;,Other;,sticeker
+851,10/9/23 13:08:13,10/9/23 13:08:37,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Other;,Creative cloud help
+852,10/9/23 13:08:39,10/9/23 13:09:01,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Study Table;,Other;,britton
+853,10/9/23 13:11:53,10/9/23 13:16:11,anonymous,,,10/9/2023,Caitlin Heavner,PY - Lab,Student,Tech Help;,WIFI;,helped logged into wifi on chromebook
+854,10/9/23 13:16:15,10/9/23 13:18:29,anonymous,,,10/9/2023,Caitlin,PY - Lab,Student,Other;,Other;,"needed help logging into student laptop, referred back to library"
+855,10/9/23 13:19:07,10/9/23 13:19:57,anonymous,,,10/9/2023,Florian Williams,FS - Design Studio,Student,Computer Usage;,Other;,Computer usage
+856,10/9/23 13:18:31,10/9/23 13:24:18,anonymous,,,10/9/2023,Caitlin,PY - Lab,Student,Computer Usage;,Other;,computer usage
+857,10/9/23 13:17:08,10/9/23 13:32:53,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Study Table;,Other;,"Chase!!!!
+"
+858,10/9/23 13:47:30,10/9/23 13:47:55,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Other;,Other;,PRISCILLA!!!!
+859,10/9/23 13:58:49,10/9/23 13:59:45,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Tech Help;,Office 365;,Microsoft Teams help
+860,10/9/23 14:01:56,10/9/23 14:02:50,anonymous,,,10/9/2023,Jabez,FS- Lab,Student,Computer Usage;,Other;,Student came in for headphone use and computer use. 
+861,10/9/23 13:24:20,10/9/23 14:04:36,anonymous,,,10/9/2023,Caitlin,PY - Lab,Student,Tech Help;,Office 365;,needed help with formatting in microsoft word
+862,10/9/23 14:21:21,10/9/23 14:21:42,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Study Table;,Other;,Study table
+863,10/9/23 14:22:21,10/9/23 14:23:44,anonymous,,,10/9/2023,Nick,FS- Lab,Student,Tech Help;,WIFI;,"High school student with Chromebook that doesn't have access to WiFi, following up with Helpdesk"
+864,10/9/23 14:31:47,10/9/23 14:32:15,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Other;,Other;,.
+865,10/9/23 14:32:17,10/9/23 14:40:16,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;Study Table;,Other;,.
+866,10/9/23 14:40:17,10/9/23 14:40:37,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Study Table;Computer Usage;,WIFI;,.
+867,10/9/23 15:07:27,10/9/23 15:15:28,anonymous,,,10/9/2023,Gary Baker,FS - Design Studio,Student,Other;,Other;,using the audio booth
+868,10/9/23 15:16:29,10/9/23 15:16:49,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Staff,Printing;Computer Usage;,Other;,.
+869,10/9/23 15:19:36,10/9/23 15:24:00,anonymous,,,10/9/2023,jacob,PY - Lab,Student,Other;,WIFI;,student needed help getting on the wifi 
+870,10/9/23 15:16:47,10/9/23 15:25:48,anonymous,,,10/9/2023,Gary Baker,FS - Design Studio,Staff,Computer Usage;,Other;,needs help accessing acrobat
+871,10/9/23 15:27:04,10/9/23 15:27:18,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Guest,Other;,Other;,.
+872,10/9/23 15:48:16,10/9/23 15:48:40,anonymous,,,10/9/2023,Jonas Nelson,PY - Lab,Student,Computer Usage;,Other;,...
+873,10/9/23 14:02:52,10/9/23 16:40:42,anonymous,,,10/9/2023,Nick,FS- Lab,Student,Tech Help;,Office 365;,Student needed help resetting their Office 365 password. 
+874,10/9/23 18:18:21,10/9/23 18:19:08,anonymous,,,10/9/2023,Breanna,Email,Student,Tech Help;,Student Email;,student email password reset
+875,10/9/23 19:37:08,10/9/23 19:38:34,anonymous,,,10/9/2023,Nayeli Perez,FS- Lab,Student,Tech Help;,WIFI;Office 365;Student Email;Canvas;,ESL student came in for first time setup

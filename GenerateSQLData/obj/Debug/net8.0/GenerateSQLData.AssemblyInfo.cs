@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerateSQLData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d75d2b5fb6f9b87060d941292bab56e25f31bf5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3044d603b16247929ff32a74fd155dc1b689e972")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerateSQLData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerateSQLData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
